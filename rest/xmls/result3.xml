@@ -1,0 +1,799 @@
+<root><result><description>Machine, OverallEquipmentEfficiency,Processes</description><machine machine_id="276"><name>Machine 7</name><status>DISCONNECT</status><functional_information><power><strength>10000</strength><hours_working>1</hours_working></power><function>Printer</function><manufacturer_x005F_xml><manufacturer>
+   <name>
+       <manufacturer_name>Manufacturer-123</manufacturer_name>
+       <manufacturer_code>ManufacturerCode-123</manufacturer_code>
+   </name>
+   <manufacturer>
+       <street zip="1000" country="MKD">
+           <name>ManufacturerStreet-123</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">69</number>
+       </street>
+   <city>Skopje</city>
+   </manufacturer>
+</manufacturer></manufacturer_x005F_xml></functional_information></machine><process><basic_information><name>Machine Destruction</name><status>In Progress</status><overall_time>50 hours</overall_time></basic_information></process><overall_equipment_efficiency oee_id="274"><threshold>90</threshold><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></result><result><description>Machine, OverallEquipmentEfficiency,Processes</description><machine machine_id="378"><name>Machine 12</name><status>DISCONNECT</status><functional_information><power><strength>130</strength><hours_working>9</hours_working></power><function>Juice Bottle Machine</function><manufacturer_x005F_xml><manufacturer>
+   <name>
+       <manufacturer_name>Manufacturer-123</manufacturer_name>
+       <manufacturer_code>ManufacturerCode-123</manufacturer_code>
+   </name>
+   <manufacturer>
+       <street zip="1000" country="MKD">
+           <name>ManufacturerStreet-123</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">69</number>
+       </street>
+   <city>Skopje</city>
+   </manufacturer>
+</manufacturer></manufacturer_x005F_xml></functional_information></machine><process><basic_information><name>Machine Fail</name><status>In Progress</status><overall_time>20 hours</overall_time></basic_information></process><overall_equipment_efficiency oee_id="376"><threshold>34</threshold><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></result><result><description>Machine, OverallEquipmentEfficiency,Processes</description><machine machine_id="432"><name>Machine 10</name><status>RESTART</status><functional_information><power><strength>2000</strength><hours_working>12</hours_working></power><function>Robotic Arm</function><manufacturer_x005F_xml><manufacturer>
+   <name>
+       <manufacturer_name>Manufacturer-123</manufacturer_name>
+       <manufacturer_code>ManufacturerCode-123</manufacturer_code>
+   </name>
+   <manufacturer>
+       <street zip="1000" country="MKD">
+           <name>ManufacturerStreet-123</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">69</number>
+       </street>
+   <city>Skopje</city>
+   </manufacturer>
+</manufacturer></manufacturer_x005F_xml></functional_information></machine><process><basic_information><name>Machine Revision</name><status>In Progress</status><overall_time>4 weeks</overall_time></basic_information></process><overall_equipment_efficiency oee_id="430"><threshold>30</threshold><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></result><result><description>Machine, OverallEquipmentEfficiency,Processes</description><machine machine_id="558"><name>Machine 5</name><status>CONNECT</status><functional_information><power><strength>2000</strength><hours_working>13</hours_working></power><function>Food Production Line</function><manufacturer_x005F_xml><manufacturer>
+   <name>
+       <manufacturer_name>Manufacturer-123</manufacturer_name>
+       <manufacturer_code>ManufacturerCode-123</manufacturer_code>
+   </name>
+   <manufacturer>
+       <street zip="1000" country="MKD">
+           <name>ManufacturerStreet-123</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">69</number>
+       </street>
+   <city>Skopje</city>
+   </manufacturer>
+</manufacturer></manufacturer_x005F_xml></functional_information></machine><process><basic_information><name>Machine Inspection</name><status>In Progress</status><overall_time>3 hours</overall_time></basic_information></process><overall_equipment_efficiency oee_id="556"><threshold>87</threshold><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></result><result><description>Machine, OverallEquipmentEfficiency,Processes</description><machine machine_id="564"><name>Machine 1</name><status>START</status><functional_information><power><strength>140</strength><hours_working>10</hours_working></power><function>Robotic Arm</function><manufacturer_x005F_xml><manufacturer>
+   <name>
+       <manufacturer_name>Manufacturer-123</manufacturer_name>
+       <manufacturer_code>ManufacturerCode-123</manufacturer_code>
+   </name>
+   <manufacturer>
+       <street zip="1000" country="MKD">
+           <name>ManufacturerStreet-123</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">69</number>
+       </street>
+   <city>Skopje</city>
+   </manufacturer>
+</manufacturer></manufacturer_x005F_xml></functional_information></machine><process><basic_information><name>Machine Rebuilding</name><status>In Progress</status><overall_time>60 hours</overall_time></basic_information></process><overall_equipment_efficiency oee_id="562"><threshold>40</threshold><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></result><result><description>Machine, OverallEquipmentEfficiency,Processes</description><machine machine_id="576"><name>Machine 4</name><status>RESTART</status><functional_information><power><strength>75000</strength><hours_working>5</hours_working></power><function>Textile Machine</function><manufacturer_x005F_xml><manufacturer>
+   <name>
+       <manufacturer_name>Manufacturer-123</manufacturer_name>
+       <manufacturer_code>ManufacturerCode-123</manufacturer_code>
+   </name>
+   <manufacturer>
+       <street zip="1000" country="MKD">
+           <name>ManufacturerStreet-123</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">69</number>
+       </street>
+   <city>Skopje</city>
+   </manufacturer>
+</manufacturer></manufacturer_x005F_xml></functional_information></machine><process><basic_information><name>Machine Destruction</name><status>In Progress</status><overall_time>30 hours</overall_time></basic_information></process><overall_equipment_efficiency oee_id="574"><threshold>50</threshold><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></result><result><description>Machine, OverallEquipmentEfficiency,Processes</description><machine machine_id="642"><name>Machine 11</name><status>CONNECT</status><functional_information><power><strength>8765</strength><hours_working>13</hours_working></power><function>Automated Car Making</function><manufacturer_x005F_xml><manufacturer>
+   <name>
+       <manufacturer_name>Manufacturer-123</manufacturer_name>
+       <manufacturer_code>ManufacturerCode-123</manufacturer_code>
+   </name>
+   <manufacturer>
+       <street zip="1000" country="MKD">
+           <name>ManufacturerStreet-123</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">69</number>
+       </street>
+   <city>Skopje</city>
+   </manufacturer>
+</manufacturer></manufacturer_x005F_xml></functional_information></machine><process><basic_information><name>Machine Fail</name><status>In Progress</status><overall_time>70 hours</overall_time></basic_information></process><overall_equipment_efficiency oee_id="640"><threshold>56</threshold><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></result><result><description>Machine, OverallEquipmentEfficiency,Processes</description><machine machine_id="810"><name>Machine 4</name><status>STOP</status><functional_information><power><strength>700</strength><hours_working>18</hours_working></power><function>Food Production Line</function><manufacturer_x005F_xml><manufacturer>
+   <name>
+       <manufacturer_name>Manufacturer-123</manufacturer_name>
+       <manufacturer_code>ManufacturerCode-123</manufacturer_code>
+   </name>
+   <manufacturer>
+       <street zip="1000" country="MKD">
+           <name>ManufacturerStreet-123</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">69</number>
+       </street>
+   <city>Skopje</city>
+   </manufacturer>
+</manufacturer></manufacturer_x005F_xml></functional_information></machine><process><basic_information><name>Machine Revision</name><status>In Progress</status><overall_time>90 hours</overall_time></basic_information></process><overall_equipment_efficiency oee_id="808"><threshold>56</threshold><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></result><result><description>Machine, OverallEquipmentEfficiency,Processes</description><machine machine_id="816"><name>Machine 10</name><status>START</status><functional_information><power><strength>2000</strength><hours_working>4</hours_working></power><function>Textile Machine</function><manufacturer_x005F_xml><manufacturer>
+   <name>
+       <manufacturer_name>Manufacturer-123</manufacturer_name>
+       <manufacturer_code>ManufacturerCode-123</manufacturer_code>
+   </name>
+   <manufacturer>
+       <street zip="1000" country="MKD">
+           <name>ManufacturerStreet-123</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">69</number>
+       </street>
+   <city>Skopje</city>
+   </manufacturer>
+</manufacturer></manufacturer_x005F_xml></functional_information></machine><process><basic_information><name>Machine Inspection</name><status>In Progress</status><overall_time>90 hours</overall_time></basic_information></process><overall_equipment_efficiency oee_id="814"><threshold>30</threshold><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></result><result><description>Machine, OverallEquipmentEfficiency,Processes</description><machine machine_id="852"><name>Machine 2</name><status>STOP</status><functional_information><power><strength>650</strength><hours_working>22</hours_working></power><function>Wire System</function><manufacturer_x005F_xml><manufacturer>
+   <name>
+       <manufacturer_name>Manufacturer-123</manufacturer_name>
+       <manufacturer_code>ManufacturerCode-123</manufacturer_code>
+   </name>
+   <manufacturer>
+       <street zip="1000" country="MKD">
+           <name>ManufacturerStreet-123</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">69</number>
+       </street>
+   <city>Skopje</city>
+   </manufacturer>
+</manufacturer></manufacturer_x005F_xml></functional_information></machine><process><basic_information><name>Machine Destruction</name><status>In Progress</status><overall_time>40 hours</overall_time></basic_information></process><overall_equipment_efficiency oee_id="850"><threshold>90</threshold><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></result><result><description>Machine, OverallEquipmentEfficiency,Processes</description><machine machine_id="972"><name>Machine 11</name><status>RESTART</status><functional_information><power><strength>65000</strength><hours_working>5</hours_working></power><function>Robotic Arm</function><manufacturer_x005F_xml><manufacturer>
+   <name>
+       <manufacturer_name>Manufacturer-123</manufacturer_name>
+       <manufacturer_code>ManufacturerCode-123</manufacturer_code>
+   </name>
+   <manufacturer>
+       <street zip="1000" country="MKD">
+           <name>ManufacturerStreet-123</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">69</number>
+       </street>
+   <city>Skopje</city>
+   </manufacturer>
+</manufacturer></manufacturer_x005F_xml></functional_information></machine><process><basic_information><name>Machine Rebuilding</name><status>In Progress</status><overall_time>1 month</overall_time></basic_information></process><overall_equipment_efficiency oee_id="970"><threshold>20</threshold><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></result><result><description>Machine, OverallEquipmentEfficiency,Processes</description><machine machine_id="984"><name>Machine 6</name><status>RESTART</status><functional_information><power><strength>120</strength><hours_working>14</hours_working></power><function>Hands Free Sewing Machine</function><manufacturer_x005F_xml><manufacturer>
+   <name>
+       <manufacturer_name>Manufacturer-123</manufacturer_name>
+       <manufacturer_code>ManufacturerCode-123</manufacturer_code>
+   </name>
+   <manufacturer>
+       <street zip="1000" country="MKD">
+           <name>ManufacturerStreet-123</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">69</number>
+       </street>
+   <city>Skopje</city>
+   </manufacturer>
+</manufacturer></manufacturer_x005F_xml></functional_information></machine><process><basic_information><name>Machine Fail</name><status>In Progress</status><overall_time>80 hours</overall_time></basic_information></process><overall_equipment_efficiency oee_id="982"><threshold>50</threshold><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></result><result><description>Machine, OverallEquipmentEfficiency,Processes</description><machine machine_id="1128"><name>Machine 11</name><status>CONNECT</status><functional_information><power><strength>2000</strength><hours_working>13</hours_working></power><function>Copy Machine</function><manufacturer_x005F_xml><manufacturer>
+   <name>
+       <manufacturer_name>Manufacturer-123</manufacturer_name>
+       <manufacturer_code>ManufacturerCode-123</manufacturer_code>
+   </name>
+   <manufacturer>
+       <street zip="1000" country="MKD">
+           <name>ManufacturerStreet-123</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">69</number>
+       </street>
+   <city>Skopje</city>
+   </manufacturer>
+</manufacturer></manufacturer_x005F_xml></functional_information></machine><process><basic_information><name>Machine Reboot</name><status>In Progress</status><overall_time>3 months</overall_time></basic_information></process><overall_equipment_efficiency oee_id="1126"><threshold>90</threshold><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></result><result><description>Machine, OverallEquipmentEfficiency,Processes</description><machine machine_id="1140"><name>Machine 2</name><status>DISCONNECT</status><functional_information><power><strength>75000</strength><hours_working>20</hours_working></power><function>Copy Machine</function><manufacturer_x005F_xml><manufacturer>
+   <name>
+       <manufacturer_name>Manufacturer-123</manufacturer_name>
+       <manufacturer_code>ManufacturerCode-123</manufacturer_code>
+   </name>
+   <manufacturer>
+       <street zip="1000" country="MKD">
+           <name>ManufacturerStreet-123</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">69</number>
+       </street>
+   <city>Skopje</city>
+   </manufacturer>
+</manufacturer></manufacturer_x005F_xml></functional_information></machine><process><basic_information><name>Machine Fix</name><status>In Progress</status><overall_time>100 hours</overall_time></basic_information></process><overall_equipment_efficiency oee_id="1138"><threshold>23</threshold><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></result><result><description>Machine, OverallEquipmentEfficiency,Processes</description><machine machine_id="1212"><name>Machine 4</name><status>DISCONNECT</status><functional_information><power><strength>7644</strength><hours_working>7</hours_working></power><function>Juice Bottle Machine</function><manufacturer_x005F_xml><manufacturer>
+   <name>
+       <manufacturer_name>Manufacturer-123</manufacturer_name>
+       <manufacturer_code>ManufacturerCode-123</manufacturer_code>
+   </name>
+   <manufacturer>
+       <street zip="1000" country="MKD">
+           <name>ManufacturerStreet-123</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">69</number>
+       </street>
+   <city>Skopje</city>
+   </manufacturer>
+</manufacturer></manufacturer_x005F_xml></functional_information></machine><process><basic_information><name>Machine Reboot</name><status>In Progress</status><overall_time>2 hours</overall_time></basic_information></process><overall_equipment_efficiency oee_id="1210"><threshold>100</threshold><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></result><result><description>Machine, OverallEquipmentEfficiency,Processes</description><machine machine_id="1224"><name>Machine 4</name><status>DISCONNECT</status><functional_information><power><strength>65000</strength><hours_working>3</hours_working></power><function>Garage Door</function><manufacturer_x005F_xml><manufacturer>
+   <name>
+       <manufacturer_name>Manufacturer-123</manufacturer_name>
+       <manufacturer_code>ManufacturerCode-123</manufacturer_code>
+   </name>
+   <manufacturer>
+       <street zip="1000" country="MKD">
+           <name>ManufacturerStreet-123</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">69</number>
+       </street>
+   <city>Skopje</city>
+   </manufacturer>
+</manufacturer></manufacturer_x005F_xml></functional_information></machine><process><basic_information><name>Machine Inspection</name><status>In Progress</status><overall_time>10 days</overall_time></basic_information></process><overall_equipment_efficiency oee_id="1222"><threshold>60</threshold><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></result><result><description>Machine, OverallEquipmentEfficiency,Processes</description><machine machine_id="1368"><name>Machine 10</name><status>STOP</status><functional_information><power><strength>2500</strength><hours_working>2</hours_working></power><function>Juice Bottle Machine</function><manufacturer_x005F_xml><manufacturer>
+   <name>
+       <manufacturer_name>Manufacturer-123</manufacturer_name>
+       <manufacturer_code>ManufacturerCode-123</manufacturer_code>
+   </name>
+   <manufacturer>
+       <street zip="1000" country="MKD">
+           <name>ManufacturerStreet-123</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">69</number>
+       </street>
+   <city>Skopje</city>
+   </manufacturer>
+</manufacturer></manufacturer_x005F_xml></functional_information></machine><process><basic_information><name>Machine Destruction</name><status>In Progress</status><overall_time>100 hours</overall_time></basic_information></process><overall_equipment_efficiency oee_id="1366"><threshold>20</threshold><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></result><result><description>Machine, OverallEquipmentEfficiency,Processes</description><machine machine_id="1560"><name>Machine 4</name><status>RESTART</status><functional_information><power><strength>750</strength><hours_working>7</hours_working></power><function>Automated Car Making</function><manufacturer_x005F_xml><manufacturer>
+   <name>
+       <manufacturer_name>Manufacturer-123</manufacturer_name>
+       <manufacturer_code>ManufacturerCode-123</manufacturer_code>
+   </name>
+   <manufacturer>
+       <street zip="1000" country="MKD">
+           <name>ManufacturerStreet-123</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">69</number>
+       </street>
+   <city>Skopje</city>
+   </manufacturer>
+</manufacturer></manufacturer_x005F_xml></functional_information></machine><process><basic_information><name>Machine Rebuilding</name><status>In Progress</status><overall_time>50 hours</overall_time></basic_information></process><overall_equipment_efficiency oee_id="1558"><threshold>99</threshold><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></result><result><description>Machine, OverallEquipmentEfficiency,Processes</description><machine machine_id="1626"><name>Machine 1</name><status>START</status><functional_information><power><strength>9000</strength><hours_working>11</hours_working></power><function>Automated Car Making</function><manufacturer_x005F_xml><manufacturer>
+   <name>
+       <manufacturer_name>Manufacturer-123</manufacturer_name>
+       <manufacturer_code>ManufacturerCode-123</manufacturer_code>
+   </name>
+   <manufacturer>
+       <street zip="1000" country="MKD">
+           <name>ManufacturerStreet-123</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">69</number>
+       </street>
+   <city>Skopje</city>
+   </manufacturer>
+</manufacturer></manufacturer_x005F_xml></functional_information></machine><process><basic_information><name>Machine Rebuilding</name><status>In Progress</status><overall_time>15 days</overall_time></basic_information></process><overall_equipment_efficiency oee_id="1624"><threshold>23</threshold><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></result><result><description>Machine, OverallEquipmentEfficiency,Processes</description><machine machine_id="1638"><name>Machine 6</name><status>STOP</status><functional_information><power><strength>2400</strength><hours_working>20</hours_working></power><function>Juicer</function><manufacturer_x005F_xml><manufacturer>
+   <name>
+       <manufacturer_name>Manufacturer-123</manufacturer_name>
+       <manufacturer_code>ManufacturerCode-123</manufacturer_code>
+   </name>
+   <manufacturer>
+       <street zip="1000" country="MKD">
+           <name>ManufacturerStreet-123</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">69</number>
+       </street>
+   <city>Skopje</city>
+   </manufacturer>
+</manufacturer></manufacturer_x005F_xml></functional_information></machine><process><basic_information><name>Machine Destruction</name><status>In Progress</status><overall_time>90 hours</overall_time></basic_information></process><overall_equipment_efficiency oee_id="1636"><threshold>120</threshold><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></result><result><description>Machine, OverallEquipmentEfficiency,Processes</description><machine machine_id="1752"><name>Machine 5</name><status>CONNECT</status><functional_information><power><strength>2500</strength><hours_working>10</hours_working></power><function>Robotic Arm</function><manufacturer_x005F_xml><manufacturer>
+   <name>
+       <manufacturer_name>Manufacturer-123</manufacturer_name>
+       <manufacturer_code>ManufacturerCode-123</manufacturer_code>
+   </name>
+   <manufacturer>
+       <street zip="1000" country="MKD">
+           <name>ManufacturerStreet-123</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">69</number>
+       </street>
+   <city>Skopje</city>
+   </manufacturer>
+</manufacturer></manufacturer_x005F_xml></functional_information></machine><process><basic_information><name>Machine Rebuilding</name><status>In Progress</status><overall_time>3 months</overall_time></basic_information></process><overall_equipment_efficiency oee_id="1750"><threshold>110</threshold><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></result><result><description>Machine, OverallEquipmentEfficiency,Processes</description><machine machine_id="1806"><name>Machine 5</name><status>RESTART</status><functional_information><power><strength>2500</strength><hours_working>14</hours_working></power><function>Robotic Arm</function><manufacturer_x005F_xml><manufacturer>
+   <name>
+       <manufacturer_name>Manufacturer-123</manufacturer_name>
+       <manufacturer_code>ManufacturerCode-123</manufacturer_code>
+   </name>
+   <manufacturer>
+       <street zip="1000" country="MKD">
+           <name>ManufacturerStreet-123</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">69</number>
+       </street>
+   <city>Skopje</city>
+   </manufacturer>
+</manufacturer></manufacturer_x005F_xml></functional_information></machine><process><basic_information><name>Machine Revision</name><status>In Progress</status><overall_time>30 hours</overall_time></basic_information></process><overall_equipment_efficiency oee_id="1804"><threshold>120</threshold><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></result><result><description>Machine, OverallEquipmentEfficiency,Processes</description><machine machine_id="1890"><name>Machine 5</name><status>DISCONNECT</status><functional_information><power><strength>550</strength><hours_working>6</hours_working></power><function>Garage Door</function><manufacturer_x005F_xml><manufacturer>
+   <name>
+       <manufacturer_name>Manufacturer-123</manufacturer_name>
+       <manufacturer_code>ManufacturerCode-123</manufacturer_code>
+   </name>
+   <manufacturer>
+       <street zip="1000" country="MKD">
+           <name>ManufacturerStreet-123</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">69</number>
+       </street>
+   <city>Skopje</city>
+   </manufacturer>
+</manufacturer></manufacturer_x005F_xml></functional_information></machine><process><basic_information><name>Machine Fix</name><status>In Progress</status><overall_time>2 weeks</overall_time></basic_information></process><overall_equipment_efficiency oee_id="1888"><threshold>100</threshold><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></result><result><description>Machine, OverallEquipmentEfficiency,Processes</description><machine machine_id="2022"><name>Machine 2</name><status>START</status><functional_information><power><strength>9000</strength><hours_working>16</hours_working></power><function>Textile Machine</function><manufacturer_x005F_xml><manufacturer>
+   <name>
+       <manufacturer_name>Manufacturer-123</manufacturer_name>
+       <manufacturer_code>ManufacturerCode-123</manufacturer_code>
+   </name>
+   <manufacturer>
+       <street zip="1000" country="MKD">
+           <name>ManufacturerStreet-123</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">69</number>
+       </street>
+   <city>Skopje</city>
+   </manufacturer>
+</manufacturer></manufacturer_x005F_xml></functional_information></machine><process><basic_information><name>Machine Destruction</name><status>In Progress</status><overall_time>100 hours</overall_time></basic_information></process><overall_equipment_efficiency oee_id="2020"><threshold>70</threshold><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></result><result><description>Machine, OverallEquipmentEfficiency,Processes</description><machine machine_id="2094"><name>Machine 11</name><status>RESTART</status><functional_information><power><strength>7644</strength><hours_working>23</hours_working></power><function>Food Production Line</function><manufacturer_x005F_xml><manufacturer>
+   <name>
+       <manufacturer_name>Manufacturer-123</manufacturer_name>
+       <manufacturer_code>ManufacturerCode-123</manufacturer_code>
+   </name>
+   <manufacturer>
+       <street zip="1000" country="MKD">
+           <name>ManufacturerStreet-123</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">69</number>
+       </street>
+   <city>Skopje</city>
+   </manufacturer>
+</manufacturer></manufacturer_x005F_xml></functional_information></machine><process><basic_information><name>Machine Inspection</name><status>In Progress</status><overall_time>5 months</overall_time></basic_information></process><overall_equipment_efficiency oee_id="2092"><threshold>20</threshold><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></result><result><description>Machine, OverallEquipmentEfficiency,Processes</description><machine machine_id="2166"><name>Machine 3</name><status>RESTART</status><functional_information><power><strength>140</strength><hours_working>21</hours_working></power><function>Mechatronics in a car</function><manufacturer_x005F_xml><manufacturer>
+   <name>
+       <manufacturer_name>Manufacturer-123</manufacturer_name>
+       <manufacturer_code>ManufacturerCode-123</manufacturer_code>
+   </name>
+   <manufacturer>
+       <street zip="1000" country="MKD">
+           <name>ManufacturerStreet-123</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">69</number>
+       </street>
+   <city>Skopje</city>
+   </manufacturer>
+</manufacturer></manufacturer_x005F_xml></functional_information></machine><process><basic_information><name>Machine Fix</name><status>In Progress</status><overall_time>30 hours</overall_time></basic_information></process><overall_equipment_efficiency oee_id="2164"><threshold>110</threshold><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></result><result><description>Machine, OverallEquipmentEfficiency,Processes</description><machine machine_id="2196"><name>Machine 2</name><status>DISCONNECT</status><functional_information><power><strength>140</strength><hours_working>15</hours_working></power><function>Textile Machine</function><manufacturer_x005F_xml><manufacturer>
+   <name>
+       <manufacturer_name>Manufacturer-123</manufacturer_name>
+       <manufacturer_code>ManufacturerCode-123</manufacturer_code>
+   </name>
+   <manufacturer>
+       <street zip="1000" country="MKD">
+           <name>ManufacturerStreet-123</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">69</number>
+       </street>
+   <city>Skopje</city>
+   </manufacturer>
+</manufacturer></manufacturer_x005F_xml></functional_information></machine><process><basic_information><name>Machine Inspection</name><status>In Progress</status><overall_time>1 month</overall_time></basic_information></process><overall_equipment_efficiency oee_id="2194"><threshold>87</threshold><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></result><result><description>Machine, OverallEquipmentEfficiency,Processes</description><machine machine_id="2208"><name>Machine 3</name><status>START</status><functional_information><power><strength>2500</strength><hours_working>5</hours_working></power><function>Garage Door</function><manufacturer_x005F_xml><manufacturer>
+   <name>
+       <manufacturer_name>Manufacturer-123</manufacturer_name>
+       <manufacturer_code>ManufacturerCode-123</manufacturer_code>
+   </name>
+   <manufacturer>
+       <street zip="1000" country="MKD">
+           <name>ManufacturerStreet-123</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">69</number>
+       </street>
+   <city>Skopje</city>
+   </manufacturer>
+</manufacturer></manufacturer_x005F_xml></functional_information></machine><process><basic_information><name>Machine Inspection</name><status>In Progress</status><overall_time>40 hours</overall_time></basic_information></process><overall_equipment_efficiency oee_id="2206"><threshold>110</threshold><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></result><result><description>Machine, OverallEquipmentEfficiency,Processes</description><machine machine_id="2550"><name>Machine 9</name><status>CONNECT</status><functional_information><power><strength>10000</strength><hours_working>12</hours_working></power><function>Vending Machine</function><manufacturer_x005F_xml><manufacturer>
+   <name>
+       <manufacturer_name>Manufacturer-123</manufacturer_name>
+       <manufacturer_code>ManufacturerCode-123</manufacturer_code>
+   </name>
+   <manufacturer>
+       <street zip="1000" country="MKD">
+           <name>ManufacturerStreet-123</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">69</number>
+       </street>
+   <city>Skopje</city>
+   </manufacturer>
+</manufacturer></manufacturer_x005F_xml></functional_information></machine><process><basic_information><name>Machine Control</name><status>In Progress</status><overall_time>100 hours</overall_time></basic_information></process><overall_equipment_efficiency oee_id="2548"><threshold>120</threshold><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></result><result><description>Machine, OverallEquipmentEfficiency,Processes</description><machine machine_id="2592"><name>Machine 3</name><status>START</status><functional_information><power><strength>1000</strength><hours_working>11</hours_working></power><function>Copy Machine</function><manufacturer_x005F_xml><manufacturer>
+   <name>
+       <manufacturer_name>Manufacturer-123</manufacturer_name>
+       <manufacturer_code>ManufacturerCode-123</manufacturer_code>
+   </name>
+   <manufacturer>
+       <street zip="1000" country="MKD">
+           <name>ManufacturerStreet-123</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">69</number>
+       </street>
+   <city>Skopje</city>
+   </manufacturer>
+</manufacturer></manufacturer_x005F_xml></functional_information></machine><process><basic_information><name>Machine Revision</name><status>In Progress</status><overall_time>10 days</overall_time></basic_information></process><overall_equipment_efficiency oee_id="2590"><threshold>34</threshold><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></result><result><description>Machine, OverallEquipmentEfficiency,Processes</description><machine machine_id="2604"><name>Machine 4</name><status>DISCONNECT</status><functional_information><power><strength>8765</strength><hours_working>1</hours_working></power><function>Robotic Arm</function><manufacturer_x005F_xml><manufacturer>
+   <name>
+       <manufacturer_name>Manufacturer-123</manufacturer_name>
+       <manufacturer_code>ManufacturerCode-123</manufacturer_code>
+   </name>
+   <manufacturer>
+       <street zip="1000" country="MKD">
+           <name>ManufacturerStreet-123</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">69</number>
+       </street>
+   <city>Skopje</city>
+   </manufacturer>
+</manufacturer></manufacturer_x005F_xml></functional_information></machine><process><basic_information><name>Machine Revision</name><status>In Progress</status><overall_time>40 hours</overall_time></basic_information></process><overall_equipment_efficiency oee_id="2602"><threshold>100</threshold><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></result><result><description>Machine, OverallEquipmentEfficiency,Processes</description><machine machine_id="2610"><name>Machine 1</name><status>DISCONNECT</status><functional_information><power><strength>550</strength><hours_working>7</hours_working></power><function>Copy Machine</function><manufacturer_x005F_xml><manufacturer>
+   <name>
+       <manufacturer_name>Manufacturer-123</manufacturer_name>
+       <manufacturer_code>ManufacturerCode-123</manufacturer_code>
+   </name>
+   <manufacturer>
+       <street zip="1000" country="MKD">
+           <name>ManufacturerStreet-123</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">69</number>
+       </street>
+   <city>Skopje</city>
+   </manufacturer>
+</manufacturer></manufacturer_x005F_xml></functional_information></machine><process><basic_information><name>Machine Fail</name><status>In Progress</status><overall_time>3 months</overall_time></basic_information></process><overall_equipment_efficiency oee_id="2608"><threshold>40</threshold><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></result><result><description>Machine, OverallEquipmentEfficiency,Processes</description><machine machine_id="2796"><name>Machine 1</name><status>STOP</status><functional_information><power><strength>2000</strength><hours_working>13</hours_working></power><function>Juicer</function><manufacturer_x005F_xml><manufacturer>
+   <name>
+       <manufacturer_name>Manufacturer-123</manufacturer_name>
+       <manufacturer_code>ManufacturerCode-123</manufacturer_code>
+   </name>
+   <manufacturer>
+       <street zip="1000" country="MKD">
+           <name>ManufacturerStreet-123</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">69</number>
+       </street>
+   <city>Skopje</city>
+   </manufacturer>
+</manufacturer></manufacturer_x005F_xml></functional_information></machine><process><basic_information><name>Machine Revision</name><status>In Progress</status><overall_time>3 days</overall_time></basic_information></process><overall_equipment_efficiency oee_id="2794"><threshold>87</threshold><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></result><result><description>Machine, OverallEquipmentEfficiency,Processes</description><machine machine_id="2814"><name>Machine 12</name><status>RESTART</status><functional_information><power><strength>10000</strength><hours_working>11</hours_working></power><function>Juice Bottle Machine</function><manufacturer_x005F_xml><manufacturer>
+   <name>
+       <manufacturer_name>Manufacturer-123</manufacturer_name>
+       <manufacturer_code>ManufacturerCode-123</manufacturer_code>
+   </name>
+   <manufacturer>
+       <street zip="1000" country="MKD">
+           <name>ManufacturerStreet-123</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">69</number>
+       </street>
+   <city>Skopje</city>
+   </manufacturer>
+</manufacturer></manufacturer_x005F_xml></functional_information></machine><process><basic_information><name>Machine Revision</name><status>In Progress</status><overall_time>100 hours</overall_time></basic_information></process><overall_equipment_efficiency oee_id="2812"><threshold>56</threshold><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></result><result><description>Machine, OverallEquipmentEfficiency,Processes</description><machine machine_id="2892"><name>Machine 10</name><status>RESTART</status><functional_information><power><strength>130</strength><hours_working>17</hours_working></power><function>Vending Machine</function><manufacturer_x005F_xml><manufacturer>
+   <name>
+       <manufacturer_name>Manufacturer-123</manufacturer_name>
+       <manufacturer_code>ManufacturerCode-123</manufacturer_code>
+   </name>
+   <manufacturer>
+       <street zip="1000" country="MKD">
+           <name>ManufacturerStreet-123</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">69</number>
+       </street>
+   <city>Skopje</city>
+   </manufacturer>
+</manufacturer></manufacturer_x005F_xml></functional_information></machine><process><basic_information><name>Machine Destruction</name><status>In Progress</status><overall_time>3 months</overall_time></basic_information></process><overall_equipment_efficiency oee_id="2890"><threshold>90</threshold><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></result><result><description>Machine, OverallEquipmentEfficiency,Processes</description><machine machine_id="2994"><name>Machine 12</name><status>DISCONNECT</status><functional_information><power><strength>750</strength><hours_working>19</hours_working></power><function>Copy Machine</function><manufacturer_x005F_xml><manufacturer>
+   <name>
+       <manufacturer_name>Manufacturer-123</manufacturer_name>
+       <manufacturer_code>ManufacturerCode-123</manufacturer_code>
+   </name>
+   <manufacturer>
+       <street zip="1000" country="MKD">
+           <name>ManufacturerStreet-123</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">69</number>
+       </street>
+   <city>Skopje</city>
+   </manufacturer>
+</manufacturer></manufacturer_x005F_xml></functional_information></machine><process><basic_information><name>Machine Rebuilding</name><status>In Progress</status><overall_time>3 days</overall_time></basic_information></process><overall_equipment_efficiency oee_id="2992"><threshold>80</threshold><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></result><result><description>Machine, OverallEquipmentEfficiency,Processes</description><machine machine_id="3066"><name>Machine 5</name><status>START</status><functional_information><power><strength>75000</strength><hours_working>24</hours_working></power><function>Juicer</function><manufacturer_x005F_xml><manufacturer>
+   <name>
+       <manufacturer_name>Manufacturer-123</manufacturer_name>
+       <manufacturer_code>ManufacturerCode-123</manufacturer_code>
+   </name>
+   <manufacturer>
+       <street zip="1000" country="MKD">
+           <name>ManufacturerStreet-123</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">69</number>
+       </street>
+   <city>Skopje</city>
+   </manufacturer>
+</manufacturer></manufacturer_x005F_xml></functional_information></machine><process><basic_information><name>Machine Revision</name><status>In Progress</status><overall_time>5 months</overall_time></basic_information></process><overall_equipment_efficiency oee_id="3064"><threshold>20</threshold><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></result><result><description>Machine, OverallEquipmentEfficiency,Processes</description><machine machine_id="3180"><name>Machine 8</name><status>START</status><functional_information><power><strength>55500</strength><hours_working>4</hours_working></power><function>Juicer</function><manufacturer_x005F_xml><manufacturer>
+   <name>
+       <manufacturer_name>Manufacturer-123</manufacturer_name>
+       <manufacturer_code>ManufacturerCode-123</manufacturer_code>
+   </name>
+   <manufacturer>
+       <street zip="1000" country="MKD">
+           <name>ManufacturerStreet-123</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">69</number>
+       </street>
+   <city>Skopje</city>
+   </manufacturer>
+</manufacturer></manufacturer_x005F_xml></functional_information></machine><process><basic_information><name>Machine Reboot</name><status>In Progress</status><overall_time>80 hours</overall_time></basic_information></process><overall_equipment_efficiency oee_id="3178"><threshold>90</threshold><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></result><result><description>Machine, OverallEquipmentEfficiency,Processes</description><machine machine_id="3210"><name>Machine 7</name><status>START</status><functional_information><power><strength>140</strength><hours_working>15</hours_working></power><function>Juicer</function><manufacturer_x005F_xml><manufacturer>
+   <name>
+       <manufacturer_name>Manufacturer-123</manufacturer_name>
+       <manufacturer_code>ManufacturerCode-123</manufacturer_code>
+   </name>
+   <manufacturer>
+       <street zip="1000" country="MKD">
+           <name>ManufacturerStreet-123</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">69</number>
+       </street>
+   <city>Skopje</city>
+   </manufacturer>
+</manufacturer></manufacturer_x005F_xml></functional_information></machine><process><basic_information><name>Machine Rebuilding</name><status>In Progress</status><overall_time>5 months</overall_time></basic_information></process><overall_equipment_efficiency oee_id="3208"><threshold>70</threshold><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></result><result><description>Machine, OverallEquipmentEfficiency,Processes</description><machine machine_id="3330"><name>Machine 1</name><status>STOP</status><functional_information><power><strength>8000</strength><hours_working>23</hours_working></power><function>Hands Free Sewing Machine</function><manufacturer_x005F_xml><manufacturer>
+   <name>
+       <manufacturer_name>Manufacturer-123</manufacturer_name>
+       <manufacturer_code>ManufacturerCode-123</manufacturer_code>
+   </name>
+   <manufacturer>
+       <street zip="1000" country="MKD">
+           <name>ManufacturerStreet-123</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">69</number>
+       </street>
+   <city>Skopje</city>
+   </manufacturer>
+</manufacturer></manufacturer_x005F_xml></functional_information></machine><process><basic_information><name>Machine Fix</name><status>In Progress</status><overall_time>15 days</overall_time></basic_information></process><overall_equipment_efficiency oee_id="3328"><threshold>60</threshold><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></result><result><description>Machine, OverallEquipmentEfficiency,Processes</description><machine machine_id="3342"><name>Machine 12</name><status>CONNECT</status><functional_information><power><strength>10000</strength><hours_working>20</hours_working></power><function>Vending Machine</function><manufacturer_x005F_xml><manufacturer>
+   <name>
+       <manufacturer_name>Manufacturer-123</manufacturer_name>
+       <manufacturer_code>ManufacturerCode-123</manufacturer_code>
+   </name>
+   <manufacturer>
+       <street zip="1000" country="MKD">
+           <name>ManufacturerStreet-123</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">69</number>
+       </street>
+   <city>Skopje</city>
+   </manufacturer>
+</manufacturer></manufacturer_x005F_xml></functional_information></machine><process><basic_information><name>Machine Fix</name><status>In Progress</status><overall_time>2 weeks</overall_time></basic_information></process><overall_equipment_efficiency oee_id="3340"><threshold>120</threshold><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></result><result><description>Machine, OverallEquipmentEfficiency,Processes</description><machine machine_id="3384"><name>Machine 5</name><status>CONNECT</status><functional_information><power><strength>120</strength><hours_working>5</hours_working></power><function>Garage Door</function><manufacturer_x005F_xml><manufacturer>
+   <name>
+       <manufacturer_name>Manufacturer-123</manufacturer_name>
+       <manufacturer_code>ManufacturerCode-123</manufacturer_code>
+   </name>
+   <manufacturer>
+       <street zip="1000" country="MKD">
+           <name>ManufacturerStreet-123</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">69</number>
+       </street>
+   <city>Skopje</city>
+   </manufacturer>
+</manufacturer></manufacturer_x005F_xml></functional_information></machine><process><basic_information><name>Machine Rebuilding</name><status>In Progress</status><overall_time>5 months</overall_time></basic_information></process><overall_equipment_efficiency oee_id="3382"><threshold>30</threshold><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></result><result><description>Machine, OverallEquipmentEfficiency,Processes</description><machine machine_id="3486"><name>Machine 2</name><status>DISCONNECT</status><functional_information><power><strength>5600</strength><hours_working>9</hours_working></power><function>Copy Machine</function><manufacturer_x005F_xml><manufacturer>
+   <name>
+       <manufacturer_name>Manufacturer-123</manufacturer_name>
+       <manufacturer_code>ManufacturerCode-123</manufacturer_code>
+   </name>
+   <manufacturer>
+       <street zip="1000" country="MKD">
+           <name>ManufacturerStreet-123</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">69</number>
+       </street>
+   <city>Skopje</city>
+   </manufacturer>
+</manufacturer></manufacturer_x005F_xml></functional_information></machine><process><basic_information><name>Machine Fix</name><status>In Progress</status><overall_time>15 days</overall_time></basic_information></process><overall_equipment_efficiency oee_id="3484"><threshold>80</threshold><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></result><result><description>Machine, OverallEquipmentEfficiency,Processes</description><machine machine_id="3510"><name>Machine 12</name><status>CONNECT</status><functional_information><power><strength>75000</strength><hours_working>20</hours_working></power><function>Printer</function><manufacturer_x005F_xml><manufacturer>
+   <name>
+       <manufacturer_name>Manufacturer-123</manufacturer_name>
+       <manufacturer_code>ManufacturerCode-123</manufacturer_code>
+   </name>
+   <manufacturer>
+       <street zip="1000" country="MKD">
+           <name>ManufacturerStreet-123</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">69</number>
+       </street>
+   <city>Skopje</city>
+   </manufacturer>
+</manufacturer></manufacturer_x005F_xml></functional_information></machine><process><basic_information><name>Machine Control</name><status>In Progress</status><overall_time>4 weeks</overall_time></basic_information></process><overall_equipment_efficiency oee_id="3508"><threshold>80</threshold><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></result><result><description>Machine, OverallEquipmentEfficiency,Processes</description><machine machine_id="3672"><name>Machine 6</name><status>RESTART</status><functional_information><power><strength>650</strength><hours_working>22</hours_working></power><function>Hands Free Sewing Machine</function><manufacturer_x005F_xml><manufacturer>
+   <name>
+       <manufacturer_name>Manufacturer-123</manufacturer_name>
+       <manufacturer_code>ManufacturerCode-123</manufacturer_code>
+   </name>
+   <manufacturer>
+       <street zip="1000" country="MKD">
+           <name>ManufacturerStreet-123</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">69</number>
+       </street>
+   <city>Skopje</city>
+   </manufacturer>
+</manufacturer></manufacturer_x005F_xml></functional_information></machine><process><basic_information><name>Machine Fix</name><status>In Progress</status><overall_time>5 days</overall_time></basic_information></process><overall_equipment_efficiency oee_id="3670"><threshold>10</threshold><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></result><result><description>Machine, OverallEquipmentEfficiency,Processes</description><machine machine_id="3732"><name>Machine 1</name><status>DISCONNECT</status><functional_information><power><strength>700</strength><hours_working>9</hours_working></power><function>Automated Car Making</function><manufacturer_x005F_xml><manufacturer>
+   <name>
+       <manufacturer_name>Manufacturer-123</manufacturer_name>
+       <manufacturer_code>ManufacturerCode-123</manufacturer_code>
+   </name>
+   <manufacturer>
+       <street zip="1000" country="MKD">
+           <name>ManufacturerStreet-123</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">69</number>
+       </street>
+   <city>Skopje</city>
+   </manufacturer>
+</manufacturer></manufacturer_x005F_xml></functional_information></machine><process><basic_information><name>Machine Inspection</name><status>In Progress</status><overall_time>20 hours</overall_time></basic_information></process><overall_equipment_efficiency oee_id="3730"><threshold>30</threshold><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></result><result><description>Machine, OverallEquipmentEfficiency,Processes</description><machine machine_id="3852"><name>Machine 10</name><status>START</status><functional_information><power><strength>10000</strength><hours_working>6</hours_working></power><function>Printer</function><manufacturer_x005F_xml><manufacturer>
+   <name>
+       <manufacturer_name>Manufacturer-123</manufacturer_name>
+       <manufacturer_code>ManufacturerCode-123</manufacturer_code>
+   </name>
+   <manufacturer>
+       <street zip="1000" country="MKD">
+           <name>ManufacturerStreet-123</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">69</number>
+       </street>
+   <city>Skopje</city>
+   </manufacturer>
+</manufacturer></manufacturer_x005F_xml></functional_information></machine><process><basic_information><name>Machine Rebuilding</name><status>In Progress</status><overall_time>3 days</overall_time></basic_information></process><overall_equipment_efficiency oee_id="3850"><threshold>60</threshold><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></result><result><description>Machine, OverallEquipmentEfficiency,Processes</description><machine machine_id="3876"><name>Machine 5</name><status>RESTART</status><functional_information><power><strength>140</strength><hours_working>2</hours_working></power><function>Robotic Arm</function><manufacturer_x005F_xml><manufacturer>
+   <name>
+       <manufacturer_name>Manufacturer-123</manufacturer_name>
+       <manufacturer_code>ManufacturerCode-123</manufacturer_code>
+   </name>
+   <manufacturer>
+       <street zip="1000" country="MKD">
+           <name>ManufacturerStreet-123</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">69</number>
+       </street>
+   <city>Skopje</city>
+   </manufacturer>
+</manufacturer></manufacturer_x005F_xml></functional_information></machine><process><basic_information><name>Machine Fail</name><status>In Progress</status><overall_time>40 hours</overall_time></basic_information></process><overall_equipment_efficiency oee_id="3874"><threshold>100</threshold><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></result><result><description>Machine, OverallEquipmentEfficiency,Processes</description><machine machine_id="3882"><name>Machine 7</name><status>CONNECT</status><functional_information><power><strength>55500</strength><hours_working>19</hours_working></power><function>Textile Machine</function><manufacturer_x005F_xml><manufacturer>
+   <name>
+       <manufacturer_name>Manufacturer-123</manufacturer_name>
+       <manufacturer_code>ManufacturerCode-123</manufacturer_code>
+   </name>
+   <manufacturer>
+       <street zip="1000" country="MKD">
+           <name>ManufacturerStreet-123</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">69</number>
+       </street>
+   <city>Skopje</city>
+   </manufacturer>
+</manufacturer></manufacturer_x005F_xml></functional_information></machine><process><basic_information><name>Machine Control</name><status>In Progress</status><overall_time>30 hours</overall_time></basic_information></process><overall_equipment_efficiency oee_id="3880"><threshold>120</threshold><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></result><result><description>Machine, OverallEquipmentEfficiency,Processes</description><machine machine_id="3918"><name>Machine 11</name><status>STOP</status><functional_information><power><strength>8000</strength><hours_working>24</hours_working></power><function>Juicer</function><manufacturer_x005F_xml><manufacturer>
+   <name>
+       <manufacturer_name>Manufacturer-123</manufacturer_name>
+       <manufacturer_code>ManufacturerCode-123</manufacturer_code>
+   </name>
+   <manufacturer>
+       <street zip="1000" country="MKD">
+           <name>ManufacturerStreet-123</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">69</number>
+       </street>
+   <city>Skopje</city>
+   </manufacturer>
+</manufacturer></manufacturer_x005F_xml></functional_information></machine><process><basic_information><name>Machine Reboot</name><status>In Progress</status><overall_time>2 hours</overall_time></basic_information></process><overall_equipment_efficiency oee_id="3916"><threshold>70</threshold><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></result><result><description>Machine, OverallEquipmentEfficiency,Processes</description><machine machine_id="3942"><name>Machine 12</name><status>START</status><functional_information><power><strength>550</strength><hours_working>6</hours_working></power><function>Vending Machine</function><manufacturer_x005F_xml><manufacturer>
+   <name>
+       <manufacturer_name>Manufacturer-123</manufacturer_name>
+       <manufacturer_code>ManufacturerCode-123</manufacturer_code>
+   </name>
+   <manufacturer>
+       <street zip="1000" country="MKD">
+           <name>ManufacturerStreet-123</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">69</number>
+       </street>
+   <city>Skopje</city>
+   </manufacturer>
+</manufacturer></manufacturer_x005F_xml></functional_information></machine><process><basic_information><name>Machine Fail</name><status>In Progress</status><overall_time>20 hours</overall_time></basic_information></process><overall_equipment_efficiency oee_id="3940"><threshold>76</threshold><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></result><result><description>Machine, OverallEquipmentEfficiency,Processes</description><machine machine_id="4260"><name>Machine 3</name><status>RESTART</status><functional_information><power><strength>65000</strength><hours_working>15</hours_working></power><function>Mechatronics in a car</function><manufacturer_x005F_xml><manufacturer>
+   <name>
+       <manufacturer_name>Manufacturer-123</manufacturer_name>
+       <manufacturer_code>ManufacturerCode-123</manufacturer_code>
+   </name>
+   <manufacturer>
+       <street zip="1000" country="MKD">
+           <name>ManufacturerStreet-123</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">69</number>
+       </street>
+   <city>Skopje</city>
+   </manufacturer>
+</manufacturer></manufacturer_x005F_xml></functional_information></machine><process><basic_information><name>Machine Control</name><status>In Progress</status><overall_time>3 months</overall_time></basic_information></process><overall_equipment_efficiency oee_id="4258"><threshold>10</threshold><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></result><result><description>Machine, OverallEquipmentEfficiency,Processes</description><machine machine_id="4308"><name>Machine 3</name><status>STOP</status><functional_information><power><strength>550</strength><hours_working>10</hours_working></power><function>Garage Door</function><manufacturer_x005F_xml><manufacturer>
+   <name>
+       <manufacturer_name>Manufacturer-123</manufacturer_name>
+       <manufacturer_code>ManufacturerCode-123</manufacturer_code>
+   </name>
+   <manufacturer>
+       <street zip="1000" country="MKD">
+           <name>ManufacturerStreet-123</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">69</number>
+       </street>
+   <city>Skopje</city>
+   </manufacturer>
+</manufacturer></manufacturer_x005F_xml></functional_information></machine><process><basic_information><name>Machine Rebuilding</name><status>In Progress</status><overall_time>40 hours</overall_time></basic_information></process><overall_equipment_efficiency oee_id="4306"><threshold>70</threshold><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></result><result><description>Machine, OverallEquipmentEfficiency,Processes</description><machine machine_id="4338"><name>Machine 1</name><status>STOP</status><functional_information><power><strength>550</strength><hours_working>17</hours_working></power><function>Wire System</function><manufacturer_x005F_xml><manufacturer>
+   <name>
+       <manufacturer_name>Manufacturer-123</manufacturer_name>
+       <manufacturer_code>ManufacturerCode-123</manufacturer_code>
+   </name>
+   <manufacturer>
+       <street zip="1000" country="MKD">
+           <name>ManufacturerStreet-123</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">69</number>
+       </street>
+   <city>Skopje</city>
+   </manufacturer>
+</manufacturer></manufacturer_x005F_xml></functional_information></machine><process><basic_information><name>Machine Revision</name><status>In Progress</status><overall_time>60 hours</overall_time></basic_information></process><overall_equipment_efficiency oee_id="4336"><threshold>76</threshold><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></result><result><description>Machine, OverallEquipmentEfficiency,Processes</description><machine machine_id="4422"><name>Machine 2</name><status>CONNECT</status><functional_information><power><strength>55500</strength><hours_working>18</hours_working></power><function>Textile Machine</function><manufacturer_x005F_xml><manufacturer>
+   <name>
+       <manufacturer_name>Manufacturer-123</manufacturer_name>
+       <manufacturer_code>ManufacturerCode-123</manufacturer_code>
+   </name>
+   <manufacturer>
+       <street zip="1000" country="MKD">
+           <name>ManufacturerStreet-123</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">69</number>
+       </street>
+   <city>Skopje</city>
+   </manufacturer>
+</manufacturer></manufacturer_x005F_xml></functional_information></machine><process><basic_information><name>Machine Reboot</name><status>In Progress</status><overall_time>15 days</overall_time></basic_information></process><overall_equipment_efficiency oee_id="4420"><threshold>33</threshold><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></result><result><description>Machine, OverallEquipmentEfficiency,Processes</description><machine machine_id="4440"><name>Machine 7</name><status>RESTART</status><functional_information><power><strength>5600</strength><hours_working>17</hours_working></power><function>Vending Machine</function><manufacturer_x005F_xml><manufacturer>
+   <name>
+       <manufacturer_name>Manufacturer-123</manufacturer_name>
+       <manufacturer_code>ManufacturerCode-123</manufacturer_code>
+   </name>
+   <manufacturer>
+       <street zip="1000" country="MKD">
+           <name>ManufacturerStreet-123</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">69</number>
+       </street>
+   <city>Skopje</city>
+   </manufacturer>
+</manufacturer></manufacturer_x005F_xml></functional_information></machine><process><basic_information><name>Machine Rebuilding</name><status>In Progress</status><overall_time>2 weeks</overall_time></basic_information></process><overall_equipment_efficiency oee_id="4438"><threshold>130</threshold><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></result><result><description>Machine, OverallEquipmentEfficiency,Processes</description><machine machine_id="4716"><name>Machine 3</name><status>DISCONNECT</status><functional_information><power><strength>750</strength><hours_working>12</hours_working></power><function>Printer</function><manufacturer_x005F_xml><manufacturer>
+   <name>
+       <manufacturer_name>Manufacturer-123</manufacturer_name>
+       <manufacturer_code>ManufacturerCode-123</manufacturer_code>
+   </name>
+   <manufacturer>
+       <street zip="1000" country="MKD">
+           <name>ManufacturerStreet-123</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">69</number>
+       </street>
+   <city>Skopje</city>
+   </manufacturer>
+</manufacturer></manufacturer_x005F_xml></functional_information></machine><process><basic_information><name>Machine Reboot</name><status>In Progress</status><overall_time>10 days</overall_time></basic_information></process><overall_equipment_efficiency oee_id="4714"><threshold>34</threshold><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></result></root>

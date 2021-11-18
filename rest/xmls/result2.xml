@@ -1,0 +1,1037 @@
+<root><result><description>Employees based on salary and position</description><repair_company company_id="1"><name>Lira</name><field_of_work>Energy</field_of_work><employee><basic_information><first_name>Marko</first_name><last_name>Jovanovski</last_name></basic_information><age>23</age><sector>Sales</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Marko</given_name>
+       <family_name>Jovanovski</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Mechanical Engineering</field><position>Intern</position></job_information><working_hours>16</working_hours><salary>50000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="25"><name>Briko</name><field_of_work>Power</field_of_work><employee><basic_information><first_name>Natalija</first_name><last_name>Jovanovski</last_name></basic_information><age>50</age><sector>Engineering</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Natalija</given_name>
+       <family_name>Jovanovski</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Mechanical Engineering</field><position>Intern</position></job_information><working_hours>30</working_hours><salary>51000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="103"><name>MZT</name><field_of_work>Energy</field_of_work><employee><basic_information><first_name>Vukica</first_name><last_name>Spasevski</last_name></basic_information><age>18</age><sector>Service Provider</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Vukica</given_name>
+       <family_name>Spasevski</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>People Operations</field><position>Intern</position></job_information><working_hours>40</working_hours><salary>21000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="109"><name>BEG</name><field_of_work>Bau Equipment</field_of_work><employee><basic_information><first_name>Matija</first_name><last_name>Krtolica</last_name></basic_information><age>27</age><sector>Service Provider</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Matija</given_name>
+       <family_name>Krtolica</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Software Development</field><position>Intern</position></job_information><working_hours>28.5</working_hours><salary>410000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="139"><name>Ikea</name><field_of_work>Power</field_of_work><employee><basic_information><first_name>Matija</first_name><last_name>Ilich</last_name></basic_information><age>18</age><sector>Security</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Matija</given_name>
+       <family_name>Ilich</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Software Development</field><position>Intern</position></job_information><working_hours>20</working_hours><salary>71000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="163"><name>Rade Koncar</name><field_of_work>Bau Equipment</field_of_work><employee><basic_information><first_name>Marko</first_name><last_name>Chonevski</last_name></basic_information><age>43</age><sector>Engineering</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Marko</given_name>
+       <family_name>Chonevski</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Finance Officer</field><position>Intern</position></job_information><working_hours>38.5</working_hours><salary>71000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="175"><name>MZT</name><field_of_work>Mechanics</field_of_work><employee><basic_information><first_name>Tanja</first_name><last_name>Chonevski</last_name></basic_information><age>38</age><sector>Marketing</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Tanja</given_name>
+       <family_name>Chonevski</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Mechanical Engineering</field><position>Intern</position></job_information><working_hours>10</working_hours><salary>70000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="265"><name>Rade Koncar</name><field_of_work>Home Equipment</field_of_work><employee><basic_information><first_name>Nasti</first_name><last_name>Chonevski</last_name></basic_information><age>53</age><sector>Team Servicer</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Nasti</given_name>
+       <family_name>Chonevski</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Mechanical Engineering</field><position>Intern</position></job_information><working_hours>10</working_hours><salary>60000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="271"><name>Rade Koncar</name><field_of_work>Power</field_of_work><employee><basic_information><first_name>Bojan</first_name><last_name>Krtolica</last_name></basic_information><age>56</age><sector>HR</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Bojan</given_name>
+       <family_name>Krtolica</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Engineering Electical</field><position>Intern</position></job_information><working_hours>38.5</working_hours><salary>30000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="379"><name>Ericsson</name><field_of_work>Electricity</field_of_work><employee><basic_information><first_name>Anja</first_name><last_name>Chonevski</last_name></basic_information><age>43</age><sector>Team Servicer</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Anja</given_name>
+       <family_name>Chonevski</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Handy Man</field><position>Intern</position></job_information><working_hours>20</working_hours><salary>100000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="565"><name>Bauhaus</name><field_of_work>Software</field_of_work><employee><basic_information><first_name>Tanja</first_name><last_name>Kitanovski</last_name></basic_information><age>50</age><sector>Marketing</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Tanja</given_name>
+       <family_name>Kitanovski</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Finance Officer</field><position>Intern</position></job_information><working_hours>30</working_hours><salary>100000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="607"><name>MZT</name><field_of_work>Bau Equipment</field_of_work><employee><basic_information><first_name>Vuk</first_name><last_name>Kocovski</last_name></basic_information><age>27</age><sector>IT</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Vuk</given_name>
+       <family_name>Kocovski</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Mechanical Engineering</field><position>Intern</position></job_information><working_hours>30</working_hours><salary>21000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="661"><name>Briko</name><field_of_work>Software</field_of_work><employee><basic_information><first_name>Natalija</first_name><last_name>Chonevski</last_name></basic_information><age>31</age><sector>Service Provider</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Natalija</given_name>
+       <family_name>Chonevski</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Food Technology</field><position>Intern</position></job_information><working_hours>24.5</working_hours><salary>51000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="787"><name>Rade Koncar</name><field_of_work>Home Equipment</field_of_work><employee><basic_information><first_name>Ive</first_name><last_name>Krtolica</last_name></basic_information><age>31</age><sector>Marketing</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Ive</given_name>
+       <family_name>Krtolica</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Finance Officer</field><position>Intern</position></job_information><working_hours>10</working_hours><salary>90000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="841"><name>Gasometar</name><field_of_work>Electricity</field_of_work><employee><basic_information><first_name>Luka</first_name><last_name>Kitanovski</last_name></basic_information><age>62</age><sector>Marketing</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Luka</given_name>
+       <family_name>Kitanovski</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Software Development</field><position>Intern</position></job_information><working_hours>15.5</working_hours><salary>50000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="961"><name>Siemens</name><field_of_work>Electricity</field_of_work><employee><basic_information><first_name>Stefan</first_name><last_name>Kitanovski</last_name></basic_information><age>43</age><sector>Security</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Stefan</given_name>
+       <family_name>Kitanovski</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Software Development</field><position>Intern</position></job_information><working_hours>28.5</working_hours><salary>40000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="1075"><name>AIT</name><field_of_work>Software</field_of_work><employee><basic_information><first_name>Luka</first_name><last_name>Kocevski</last_name></basic_information><age>18</age><sector>Service Provider</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Luka</given_name>
+       <family_name>Kocevski</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Mechanical Engineering</field><position>Intern</position></job_information><working_hours>52</working_hours><salary>60000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="1303"><name>AIT</name><field_of_work>Mechanics</field_of_work><employee><basic_information><first_name>Matija</first_name><last_name>Ilich</last_name></basic_information><age>23</age><sector>Service Officer</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Matija</given_name>
+       <family_name>Ilich</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Power Engineering</field><position>Intern</position></job_information><working_hours>15.5</working_hours><salary>100000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="1399"><name>Nova</name><field_of_work>Software</field_of_work><employee><basic_information><first_name>Tanja</first_name><last_name>Chonevski</last_name></basic_information><age>39</age><sector>Marketing</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Tanja</given_name>
+       <family_name>Chonevski</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Finance Officer</field><position>Intern</position></job_information><working_hours>16</working_hours><salary>910000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="1465"><name>Gasometar</name><field_of_work>Energy</field_of_work><employee><basic_information><first_name>Vuk</first_name><last_name>Krtolica</last_name></basic_information><age>38</age><sector>Sales</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Vuk</given_name>
+       <family_name>Krtolica</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Mechanical Engineering</field><position>Intern</position></job_information><working_hours>30</working_hours><salary>50000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="1519"><name>Gasometar</name><field_of_work>Energy</field_of_work><employee><basic_information><first_name>Mitko</first_name><last_name>Marks</last_name></basic_information><age>39</age><sector>IT</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Mitko</given_name>
+       <family_name>Marks</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Food Technology</field><position>Intern</position></job_information><working_hours>60</working_hours><salary>100000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="1603"><name>Nova</name><field_of_work>Mehatronics</field_of_work><employee><basic_information><first_name>Mitko</first_name><last_name>Jovanovski</last_name></basic_information><age>25</age><sector>IT</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Mitko</given_name>
+       <family_name>Jovanovski</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Power Engineering</field><position>Intern</position></job_information><working_hours>20</working_hours><salary>410000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="1699"><name>MZT</name><field_of_work>Energy</field_of_work><employee><basic_information><first_name>Jovana</first_name><last_name>Kocevski</last_name></basic_information><age>26</age><sector>Engineering</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Jovana</given_name>
+       <family_name>Kocevski</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Food Technology</field><position>Intern</position></job_information><working_hours>60</working_hours><salary>40000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="1735"><name>Siemens</name><field_of_work>Home Equipment</field_of_work><employee><basic_information><first_name>Luka</first_name><last_name>Kocovski</last_name></basic_information><age>53</age><sector>IT</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Luka</given_name>
+       <family_name>Kocovski</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Power Engineering</field><position>Intern</position></job_information><working_hours>52</working_hours><salary>71000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="1987"><name>Rade Koncar</name><field_of_work>Bau Equipment</field_of_work><employee><basic_information><first_name>Bojan</first_name><last_name>Spasevski</last_name></basic_information><age>58</age><sector>HR</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Bojan</given_name>
+       <family_name>Spasevski</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Finance Officer</field><position>Intern</position></job_information><working_hours>18</working_hours><salary>50000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="1993"><name>Rade Koncar</name><field_of_work>Bau Equipment</field_of_work><employee><basic_information><first_name>Vukica</first_name><last_name>Chonevski</last_name></basic_information><age>23</age><sector>Marketing</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Vukica</given_name>
+       <family_name>Chonevski</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Engineering Electical</field><position>Intern</position></job_information><working_hours>18</working_hours><salary>90000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="2143"><name>Rade Koncar</name><field_of_work>Power</field_of_work><employee><basic_information><first_name>Koka</first_name><last_name>Kitanovski</last_name></basic_information><age>31</age><sector>Chief Executive Officer</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Koka</given_name>
+       <family_name>Kitanovski</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Food Technology</field><position>Intern</position></job_information><working_hours>18</working_hours><salary>71000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="2167"><name>Briko</name><field_of_work>Bau Equipment</field_of_work><employee><basic_information><first_name>Anja</first_name><last_name>Jovanovski</last_name></basic_information><age>40</age><sector>Engineering</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Anja</given_name>
+       <family_name>Jovanovski</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Food Technology</field><position>Intern</position></job_information><working_hours>24.5</working_hours><salary>81000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="2281"><name>Ikea</name><field_of_work>Power</field_of_work><employee><basic_information><first_name>Jovana</first_name><last_name>Jovanovski</last_name></basic_information><age>26</age><sector>Sales</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Jovana</given_name>
+       <family_name>Jovanovski</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Director</field><position>Intern</position></job_information><working_hours>16</working_hours><salary>70000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="2551"><name>BEG</name><field_of_work>Home Equipment</field_of_work><employee><basic_information><first_name>Julijana</first_name><last_name>Ilich</last_name></basic_information><age>18</age><sector>Security</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Julijana</given_name>
+       <family_name>Ilich</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Director</field><position>Intern</position></job_information><working_hours>28.5</working_hours><salary>60000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="2557"><name>BEG</name><field_of_work>Mechanics</field_of_work><employee><basic_information><first_name>Koka</first_name><last_name>Ilich</last_name></basic_information><age>40</age><sector>Service Provider</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Koka</given_name>
+       <family_name>Ilich</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Finance Officer</field><position>Intern</position></job_information><working_hours>24.5</working_hours><salary>100000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="2575"><name>AIT</name><field_of_work>Mechanics</field_of_work><employee><basic_information><first_name>Luka</first_name><last_name>Marks</last_name></basic_information><age>22</age><sector>Team Servicer</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Luka</given_name>
+       <family_name>Marks</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Finance Officer</field><position>Intern</position></job_information><working_hours>30</working_hours><salary>100000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="2635"><name>BEG</name><field_of_work>Mechanics</field_of_work><employee><basic_information><first_name>Cobe</first_name><last_name>Kocovski</last_name></basic_information><age>56</age><sector>Marketing</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Cobe</given_name>
+       <family_name>Kocovski</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>People Operations</field><position>Intern</position></job_information><working_hours>18</working_hours><salary>80000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="2641"><name>AIT</name><field_of_work>Repair Service</field_of_work><employee><basic_information><first_name>Ive</first_name><last_name>Marks</last_name></basic_information><age>25</age><sector>Team Servicer</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Ive</given_name>
+       <family_name>Marks</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Food Technology</field><position>Intern</position></job_information><working_hours>16</working_hours><salary>100000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="2653"><name>MZT</name><field_of_work>Mehatronics</field_of_work><employee><basic_information><first_name>Matija</first_name><last_name>Chonevski</last_name></basic_information><age>62</age><sector>HR</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Matija</given_name>
+       <family_name>Chonevski</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Finance Officer</field><position>Intern</position></job_information><working_hours>30</working_hours><salary>31000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="2659"><name>Siemens</name><field_of_work>Repair Service</field_of_work><employee><basic_information><first_name>George</first_name><last_name>Krtolica</last_name></basic_information><age>62</age><sector>Marketing</sector><address_x005F_xml><address>
+   <name>
+       <given_name>George</given_name>
+       <family_name>Krtolica</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Finance Officer</field><position>Intern</position></job_information><working_hours>10</working_hours><salary>61000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="2689"><name>Briko</name><field_of_work>Power</field_of_work><employee><basic_information><first_name>Koka</first_name><last_name>Jovanovski</last_name></basic_information><age>27</age><sector>Sales</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Koka</given_name>
+       <family_name>Jovanovski</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Food Technology</field><position>Intern</position></job_information><working_hours>52</working_hours><salary>60000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="2707"><name>Nova</name><field_of_work>Power</field_of_work><employee><basic_information><first_name>Stefan</first_name><last_name>Kocovski</last_name></basic_information><age>60</age><sector>Engineering</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Stefan</given_name>
+       <family_name>Kocovski</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Finance Officer</field><position>Intern</position></job_information><working_hours>18</working_hours><salary>30000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="2719"><name>Gasometar</name><field_of_work>Bau Equipment</field_of_work><employee><basic_information><first_name>Sanja</first_name><last_name>Ilich</last_name></basic_information><age>50</age><sector>Chief Executive Officer</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Sanja</given_name>
+       <family_name>Ilich</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Director</field><position>Intern</position></job_information><working_hours>10</working_hours><salary>30000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="2755"><name>Gasometar</name><field_of_work>Electricity</field_of_work><employee><basic_information><first_name>Jovana</first_name><last_name>Chonevski</last_name></basic_information><age>22</age><sector>Team Servicer</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Jovana</given_name>
+       <family_name>Chonevski</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Software Development</field><position>Intern</position></job_information><working_hours>28.5</working_hours><salary>100000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="3037"><name>Ericsson</name><field_of_work>Repair Service</field_of_work><employee><basic_information><first_name>Marko</first_name><last_name>Chonevski</last_name></basic_information><age>50</age><sector>Sales</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Marko</given_name>
+       <family_name>Chonevski</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Mechanical Engineering</field><position>Intern</position></job_information><working_hours>52</working_hours><salary>100000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="3055"><name>Nova</name><field_of_work>Power</field_of_work><employee><basic_information><first_name>Vesna</first_name><last_name>Krtolica</last_name></basic_information><age>18</age><sector>Chief Executive Officer</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Vesna</given_name>
+       <family_name>Krtolica</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Finance Officer</field><position>Intern</position></job_information><working_hours>38.5</working_hours><salary>80000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="3073"><name>AIT</name><field_of_work>Home Equipment</field_of_work><employee><basic_information><first_name>Marko</first_name><last_name>Kitanovski</last_name></basic_information><age>18</age><sector>Sales</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Marko</given_name>
+       <family_name>Kitanovski</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Engineering Electical</field><position>Intern</position></job_information><working_hours>16</working_hours><salary>910000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="3139"><name>Gasometar</name><field_of_work>Electricity</field_of_work><employee><basic_information><first_name>Marko</first_name><last_name>Marks</last_name></basic_information><age>18</age><sector>Security</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Marko</given_name>
+       <family_name>Marks</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Engineering Electical</field><position>Intern</position></job_information><working_hours>10</working_hours><salary>61000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="3211"><name>AIT</name><field_of_work>Electricity</field_of_work><employee><basic_information><first_name>Bojan</first_name><last_name>Chonevski</last_name></basic_information><age>27</age><sector>IT</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Bojan</given_name>
+       <family_name>Chonevski</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Food Technology</field><position>Intern</position></job_information><working_hours>60</working_hours><salary>71000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="3295"><name>Rade Koncar</name><field_of_work>Mechanics</field_of_work><employee><basic_information><first_name>Anja</first_name><last_name>Kocovski</last_name></basic_information><age>39</age><sector>Chief Executive Officer</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Anja</given_name>
+       <family_name>Kocovski</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Software Development</field><position>Intern</position></job_information><working_hours>15.5</working_hours><salary>410000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="3445"><name>Ericsson</name><field_of_work>Mechanics</field_of_work><employee><basic_information><first_name>Vukica</first_name><last_name>Spasevski</last_name></basic_information><age>40</age><sector>Engineering</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Vukica</given_name>
+       <family_name>Spasevski</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Handy Man</field><position>Intern</position></job_information><working_hours>40</working_hours><salary>71000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="3541"><name>Siemens</name><field_of_work>Home Equipment</field_of_work><employee><basic_information><first_name>Bojan</first_name><last_name>Ilich</last_name></basic_information><age>48</age><sector>Chief Executive Officer</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Bojan</given_name>
+       <family_name>Ilich</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Mechanical Engineering</field><position>Intern</position></job_information><working_hours>20</working_hours><salary>50000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="3559"><name>Lira</name><field_of_work>Mehatronics</field_of_work><employee><basic_information><first_name>Matija</first_name><last_name>Ilich</last_name></basic_information><age>39</age><sector>IT</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Matija</given_name>
+       <family_name>Ilich</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Finance Officer</field><position>Intern</position></job_information><working_hours>16</working_hours><salary>40000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="3613"><name>Nova</name><field_of_work>Electricity</field_of_work><employee><basic_information><first_name>Stefan</first_name><last_name>Jovanovski</last_name></basic_information><age>58</age><sector>Team Servicer</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Stefan</given_name>
+       <family_name>Jovanovski</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Power Engineering</field><position>Intern</position></job_information><working_hours>15.5</working_hours><salary>21000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="3619"><name>Siemens</name><field_of_work>Power</field_of_work><employee><basic_information><first_name>Luka</first_name><last_name>Kitanovski</last_name></basic_information><age>47</age><sector>Service Provider</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Luka</given_name>
+       <family_name>Kitanovski</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>People Operations</field><position>Intern</position></job_information><working_hours>16</working_hours><salary>61000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="3703"><name>Novateks</name><field_of_work>Electricity</field_of_work><employee><basic_information><first_name>Ive</first_name><last_name>Kocovski</last_name></basic_information><age>56</age><sector>HR</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Ive</given_name>
+       <family_name>Kocovski</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Mechanical Engineering</field><position>Intern</position></job_information><working_hours>60</working_hours><salary>40000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="3817"><name>Briko</name><field_of_work>Mehatronics</field_of_work><employee><basic_information><first_name>Sanja</first_name><last_name>Spasevski</last_name></basic_information><age>22</age><sector>Service Provider</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Sanja</given_name>
+       <family_name>Spasevski</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Software Development</field><position>Intern</position></job_information><working_hours>60</working_hours><salary>31000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="3829"><name>Lira</name><field_of_work>Home Equipment</field_of_work><employee><basic_information><first_name>Stefan</first_name><last_name>Marks</last_name></basic_information><age>56</age><sector>Team Servicer</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Stefan</given_name>
+       <family_name>Marks</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Food Technology</field><position>Intern</position></job_information><working_hours>60</working_hours><salary>51000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="3859"><name>Siemens</name><field_of_work>Energy</field_of_work><employee><basic_information><first_name>Bojan</first_name><last_name>Spasevski</last_name></basic_information><age>24</age><sector>Service Officer</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Bojan</given_name>
+       <family_name>Spasevski</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Handy Man</field><position>Intern</position></job_information><working_hours>28.5</working_hours><salary>410000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="3895"><name>BEG</name><field_of_work>Home Equipment</field_of_work><employee><basic_information><first_name>Julijana</first_name><last_name>Marks</last_name></basic_information><age>26</age><sector>Marketing</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Julijana</given_name>
+       <family_name>Marks</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Director</field><position>Intern</position></job_information><working_hours>16</working_hours><salary>60000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="3901"><name>Rade Koncar</name><field_of_work>Mehatronics</field_of_work><employee><basic_information><first_name>George</first_name><last_name>Marks</last_name></basic_information><age>39</age><sector>Engineering</sector><address_x005F_xml><address>
+   <name>
+       <given_name>George</given_name>
+       <family_name>Marks</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Power Engineering</field><position>Intern</position></job_information><working_hours>60</working_hours><salary>90000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="4021"><name>Bauhaus</name><field_of_work>Mehatronics</field_of_work><employee><basic_information><first_name>Vesna</first_name><last_name>Kitanovski</last_name></basic_information><age>27</age><sector>Sales</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Vesna</given_name>
+       <family_name>Kitanovski</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Director</field><position>Intern</position></job_information><working_hours>20</working_hours><salary>80000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="4093"><name>Rade Koncar</name><field_of_work>Power</field_of_work><employee><basic_information><first_name>Vladimir</first_name><last_name>Chonevski</last_name></basic_information><age>25</age><sector>Team Servicer</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Vladimir</given_name>
+       <family_name>Chonevski</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Mechanical Engineering</field><position>Intern</position></job_information><working_hours>18</working_hours><salary>60000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="4117"><name>Briko</name><field_of_work>Mechanics</field_of_work><employee><basic_information><first_name>Anja</first_name><last_name>Chonevski</last_name></basic_information><age>48</age><sector>Sales</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Anja</given_name>
+       <family_name>Chonevski</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Handy Man</field><position>Intern</position></job_information><working_hours>52</working_hours><salary>100000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="4135"><name>Briko</name><field_of_work>Repair Service</field_of_work><employee><basic_information><first_name>Natalija</first_name><last_name>Spasevski</last_name></basic_information><age>31</age><sector>Engineering</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Natalija</given_name>
+       <family_name>Spasevski</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Finance Officer</field><position>Intern</position></job_information><working_hours>24.5</working_hours><salary>410000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="4141"><name>Ericsson</name><field_of_work>Electricity</field_of_work><employee><basic_information><first_name>Sanja</first_name><last_name>Ilich</last_name></basic_information><age>22</age><sector>Chief Executive Officer</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Sanja</given_name>
+       <family_name>Ilich</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Mechanical Engineering</field><position>Intern</position></job_information><working_hours>28.5</working_hours><salary>90000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="4249"><name>Ikea</name><field_of_work>Software</field_of_work><employee><basic_information><first_name>Sanja</first_name><last_name>Kitanovski</last_name></basic_information><age>27</age><sector>Team Servicer</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Sanja</given_name>
+       <family_name>Kitanovski</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Director</field><position>Intern</position></job_information><working_hours>18</working_hours><salary>21000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="4333"><name>Bauhaus</name><field_of_work>Mehatronics</field_of_work><employee><basic_information><first_name>Stefan</first_name><last_name>Jovanovski</last_name></basic_information><age>23</age><sector>Security</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Stefan</given_name>
+       <family_name>Jovanovski</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Power Engineering</field><position>Intern</position></job_information><working_hours>15.5</working_hours><salary>71000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="4339"><name>MZT</name><field_of_work>Repair Service</field_of_work><employee><basic_information><first_name>Natalija</first_name><last_name>Jovanovski</last_name></basic_information><age>48</age><sector>Marketing</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Natalija</given_name>
+       <family_name>Jovanovski</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Handy Man</field><position>Intern</position></job_information><working_hours>28.5</working_hours><salary>910000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="4345"><name>Ericsson</name><field_of_work>Software</field_of_work><employee><basic_information><first_name>Koka</first_name><last_name>Marks</last_name></basic_information><age>22</age><sector>IT</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Koka</given_name>
+       <family_name>Marks</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Software Development</field><position>Intern</position></job_information><working_hours>38.5</working_hours><salary>90000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="4429"><name>Ericsson</name><field_of_work>Software</field_of_work><employee><basic_information><first_name>Koka</first_name><last_name>Kitanovski</last_name></basic_information><age>22</age><sector>Engineering</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Koka</given_name>
+       <family_name>Kitanovski</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Engineering Electical</field><position>Intern</position></job_information><working_hours>60</working_hours><salary>100000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="4447"><name>Rade Koncar</name><field_of_work>Bau Equipment</field_of_work><employee><basic_information><first_name>Bojan</first_name><last_name>Jovanovski</last_name></basic_information><age>38</age><sector>Engineering</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Bojan</given_name>
+       <family_name>Jovanovski</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Mechanical Engineering</field><position>Intern</position></job_information><working_hours>18</working_hours><salary>60000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="4483"><name>MZT</name><field_of_work>Electricity</field_of_work><employee><basic_information><first_name>Nasti</first_name><last_name>Kitanovski</last_name></basic_information><age>53</age><sector>Security</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Nasti</given_name>
+       <family_name>Kitanovski</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>People Operations</field><position>Intern</position></job_information><working_hours>28.5</working_hours><salary>910000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="4489"><name>Nova</name><field_of_work>Repair Service</field_of_work><employee><basic_information><first_name>Luka</first_name><last_name>Chonevski</last_name></basic_information><age>43</age><sector>HR</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Luka</given_name>
+       <family_name>Chonevski</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Food Technology</field><position>Intern</position></job_information><working_hours>15.5</working_hours><salary>50000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="4513"><name>Gasometar</name><field_of_work>Power</field_of_work><employee><basic_information><first_name>Sanja</first_name><last_name>Chonevski</last_name></basic_information><age>38</age><sector>HR</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Sanja</given_name>
+       <family_name>Chonevski</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Finance Officer</field><position>Intern</position></job_information><working_hours>38.5</working_hours><salary>100000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="4567"><name>BEG</name><field_of_work>Software</field_of_work><employee><basic_information><first_name>Vladimir</first_name><last_name>Jovanovski</last_name></basic_information><age>31</age><sector>Marketing</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Vladimir</given_name>
+       <family_name>Jovanovski</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Power Engineering</field><position>Intern</position></job_information><working_hours>60</working_hours><salary>40000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="4699"><name>Ikea</name><field_of_work>Software</field_of_work><employee><basic_information><first_name>Anja</first_name><last_name>Ilich</last_name></basic_information><age>48</age><sector>Service Provider</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Anja</given_name>
+       <family_name>Ilich</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Food Technology</field><position>Intern</position></job_information><working_hours>24.5</working_hours><salary>100000</salary></engineer></result><result><description>Employees based on salary and position</description><repair_company company_id="4747"><name>Ericsson</name><field_of_work>Repair Service</field_of_work><employee><basic_information><first_name>Luka</first_name><last_name>Kitanovski</last_name></basic_information><age>50</age><sector>Service Officer</sector><address_x005F_xml><address>
+   <name>
+       <given_name>Luka</given_name>
+       <family_name>Kitanovski</family_name>
+   </name>
+   <address zip="1100" country="MKD">
+       <street>
+           <name>SomeStreet</name>
+           <number type="main">12</number>
+           <number type="internal">4</number>
+           <number type="internal">59</number>
+       </street>
+   <city>Skopje</city>
+   </address>
+</address></address_x005F_xml></employee></repair_company><engineer><job_information><field>Director</field><position>Intern</position></job_information><working_hours>20</working_hours><salary>30000</salary></engineer></result></root>

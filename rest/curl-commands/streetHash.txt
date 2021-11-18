@@ -1,0 +1,5 @@
+curl --location --request GET 'http://localhost:9766/oee/repair-company-number' \
+--header 'Content-Type: application/json' \
+--data-raw '{
+    "13" : 87
+}'

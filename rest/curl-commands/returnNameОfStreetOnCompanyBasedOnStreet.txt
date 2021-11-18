@@ -1,0 +1,3 @@
+curl --location --request DELETE 'http://abgabe.cs.univie.ac.at:9766/oee/delete-repair-company-foundation/Vodnjanska' \
+--header 'Authorization: Basic bXktdHJ1c3RlZC1jbGllbnQ6c2VjcmV0' \
+--data-raw ''

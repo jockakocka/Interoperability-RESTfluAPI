@@ -1,0 +1,2 @@
+curl --location --request GET 'http://abgabe.cs.univie.ac.at:9766/oee/repair-companies-countries?countryNames=Macedonia' \
+--data-raw ''

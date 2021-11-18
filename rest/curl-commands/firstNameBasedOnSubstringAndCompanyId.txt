@@ -1,0 +1,12 @@
+curl --location --request GET 'http://abgabe.cs.univie.ac.at:9766/oee/first-names' \
+--header 'Content-Type: application/json' \
+--data-raw '[
+        {
+        "firstName" : "Vuk",
+        "companyId" : 13
+        },
+         {
+        "firstName" : "Vukica",
+        "companyId" : 13
+        }
+]'

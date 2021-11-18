@@ -1,0 +1,2 @@
+curl --location --request GET 'http://localhost:9766/oee/total-threshold-rows-equinum?equipmentNumbers=10' \
+--header 'Authorization: Basic bXktdHJ1c3RlZC1jbGllbnQ6c2VjcmV0'

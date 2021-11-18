@@ -1,0 +1,12 @@
+curl --location --request POST 'http://abgabe.cs.univie.ac.at:9766/oee/new-processes' \
+--header 'Content-Type: application/json' \
+--data-raw '{
+    "processId" : 521,
+    "processName" : "Test Process1",
+    "processStatus" : "Finished",
+    "overallTime" : "3 minutes",
+    "threshold" : 24,
+    "finalValue" : 90,
+    "equipmentNumber" : 120,
+    "thresholdSatisfied" : "true"
+}'

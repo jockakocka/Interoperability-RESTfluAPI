@@ -1,0 +1,1850 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><root>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="53">
+            <name>Machine Rebuilding</name>
+            <status>Warning</status>
+            <overall_time>5 days</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>56</threshold>
+                    <final_value>23</final_value>
+                </values>
+                <equipment_number>5</equipment_number>
+                <threshold_satisfied>true</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="1">
+            <name>Duty Vehicles</name>
+            <grade>A</grade>
+            <place_of_origin>Macedonia</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="95">
+            <name>Machine Inspection</name>
+            <status>Finished</status>
+            <overall_time>3 hours</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>60</threshold>
+                    <final_value>56</final_value>
+                </values>
+                <equipment_number>80</equipment_number>
+                <threshold_satisfied>true</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="90">
+            <name>Inclined Plane</name>
+            <grade>A</grade>
+            <place_of_origin>Greece</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="119">
+            <name>Machine Fail</name>
+            <status>Finished</status>
+            <overall_time>30 hours</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>56</threshold>
+                    <final_value>23</final_value>
+                </values>
+                <equipment_number>10</equipment_number>
+                <threshold_satisfied>false</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="33">
+            <name>Excavator</name>
+            <grade>A</grade>
+            <place_of_origin>Swiss</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="155">
+            <name>Machine Destruction</name>
+            <status>Stopped</status>
+            <overall_time>3 weeks</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>60</threshold>
+                    <final_value>87</final_value>
+                </values>
+                <equipment_number>6</equipment_number>
+                <threshold_satisfied>false</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="1">
+            <name>Big Screws</name>
+            <grade>A</grade>
+            <place_of_origin>Greece</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="167">
+            <name>Machine Revision</name>
+            <status>In Progress</status>
+            <overall_time>1 hour</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>30</threshold>
+                    <final_value>110</final_value>
+                </values>
+                <equipment_number>20</equipment_number>
+                <threshold_satisfied>false</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="24">
+            <name>Lever</name>
+            <grade>A</grade>
+            <place_of_origin>Swiss</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="197">
+            <name>Machine Revision</name>
+            <status>Finished</status>
+            <overall_time>50 hours</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>99</threshold>
+                    <final_value>10</final_value>
+                </values>
+                <equipment_number>2</equipment_number>
+                <threshold_satisfied>false</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="41">
+            <name>Big Screws</name>
+            <grade>A</grade>
+            <place_of_origin>Serbia</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="203">
+            <name>Machine Destruction</name>
+            <status>Blocked</status>
+            <overall_time>10 days</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>20</threshold>
+                    <final_value>34</final_value>
+                </values>
+                <equipment_number>140</equipment_number>
+                <threshold_satisfied>false</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="81">
+            <name>Duty Vehicles</name>
+            <grade>A</grade>
+            <place_of_origin>Russia</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="251">
+            <name>Machine Inspection</name>
+            <status>Finished</status>
+            <overall_time>60 hours</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>120</threshold>
+                    <final_value>99</final_value>
+                </values>
+                <equipment_number>120</equipment_number>
+                <threshold_satisfied>false</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="27">
+            <name>Big Screws</name>
+            <grade>A</grade>
+            <place_of_origin>Romania</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="305">
+            <name>Machine Revision</name>
+            <status>Started</status>
+            <overall_time>30 hours</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>40</threshold>
+                    <final_value>60</final_value>
+                </values>
+                <equipment_number>110</equipment_number>
+                <threshold_satisfied>true</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="71">
+            <name>Screw Driver</name>
+            <grade>A</grade>
+            <place_of_origin>Austria</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="347">
+            <name>Machine Reboot</name>
+            <status>Finished</status>
+            <overall_time>5 days</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>50</threshold>
+                    <final_value>56</final_value>
+                </values>
+                <equipment_number>3</equipment_number>
+                <threshold_satisfied>true</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="34">
+            <name>Material for Line</name>
+            <grade>A</grade>
+            <place_of_origin>Holland</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="377">
+            <name>Machine Fail</name>
+            <status>In Progress</status>
+            <overall_time>20 hours</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>34</threshold>
+                    <final_value>98</final_value>
+                </values>
+                <equipment_number>90</equipment_number>
+                <threshold_satisfied>true</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="28">
+            <name>Duty Vehicles</name>
+            <grade>A</grade>
+            <place_of_origin>Holland</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="383">
+            <name>Machine Reboot</name>
+            <status>Error</status>
+            <overall_time>2 weeks</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>87</threshold>
+                    <final_value>10</final_value>
+                </values>
+                <equipment_number>15</equipment_number>
+                <threshold_satisfied>false</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="10">
+            <name>Steel</name>
+            <grade>A</grade>
+            <place_of_origin>Greece</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="449">
+            <name>Machine Rebuilding</name>
+            <status>Delayed</status>
+            <overall_time>1 hour</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>130</threshold>
+                    <final_value>97</final_value>
+                </values>
+                <equipment_number>1</equipment_number>
+                <threshold_satisfied>true</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="29">
+            <name>Glass</name>
+            <grade>A</grade>
+            <place_of_origin>Austria</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="491">
+            <name>Machine Destruction</name>
+            <status>Started</status>
+            <overall_time>3 weeks</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>76</threshold>
+                    <final_value>30</final_value>
+                </values>
+                <equipment_number>75</equipment_number>
+                <threshold_satisfied>true</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="38">
+            <name>Inclined Plane</name>
+            <grade>A</grade>
+            <place_of_origin>Macedonia</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="509">
+            <name>Machine Inspection</name>
+            <status>Ongoing</status>
+            <overall_time>80 hours</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>87</threshold>
+                    <final_value>20</final_value>
+                </values>
+                <equipment_number>8</equipment_number>
+                <threshold_satisfied>true</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="26">
+            <name>Glass</name>
+            <grade>A</grade>
+            <place_of_origin>Italy</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="521">
+            <name>Machine Inspection</name>
+            <status>Started</status>
+            <overall_time>50 hours</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>10</threshold>
+                    <final_value>90</final_value>
+                </values>
+                <equipment_number>160</equipment_number>
+                <threshold_satisfied>false</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="71">
+            <name>Steel</name>
+            <grade>A</grade>
+            <place_of_origin>Vietnam</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="563">
+            <name>Machine Rebuilding</name>
+            <status>In Progress</status>
+            <overall_time>60 hours</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>40</threshold>
+                    <final_value>120</final_value>
+                </values>
+                <equipment_number>160</equipment_number>
+                <threshold_satisfied>true</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="34">
+            <name>Duty Vehicles</name>
+            <grade>A</grade>
+            <place_of_origin>Croatia</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="569">
+            <name>Machine Destruction</name>
+            <status>Blocked</status>
+            <overall_time>3 days</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>130</threshold>
+                    <final_value>33</final_value>
+                </values>
+                <equipment_number>5</equipment_number>
+                <threshold_satisfied>true</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="11">
+            <name>Duty Vehicles</name>
+            <grade>A</grade>
+            <place_of_origin>Italy</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="635">
+            <name>Machine Reboot</name>
+            <status>Error</status>
+            <overall_time>3 weeks</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>80</threshold>
+                    <final_value>98</final_value>
+                </values>
+                <equipment_number>95</equipment_number>
+                <threshold_satisfied>false</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="6">
+            <name>Inclined Plane</name>
+            <grade>A</grade>
+            <place_of_origin>Macedonia</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="731">
+            <name>Machine Control</name>
+            <status>Stopped</status>
+            <overall_time>15 days</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>70</threshold>
+                    <final_value>20</final_value>
+                </values>
+                <equipment_number>20</equipment_number>
+                <threshold_satisfied>true</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="11">
+            <name>Big Screws</name>
+            <grade>A</grade>
+            <place_of_origin>Greece</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="767">
+            <name>Machine Revision</name>
+            <status>Warning</status>
+            <overall_time>10 days</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>130</threshold>
+                    <final_value>56</final_value>
+                </values>
+                <equipment_number>2</equipment_number>
+                <threshold_satisfied>true</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="10">
+            <name>Inclined Plane</name>
+            <grade>A</grade>
+            <place_of_origin>Bulgaria</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="917">
+            <name>Machine Destruction</name>
+            <status>Finished</status>
+            <overall_time>3 months</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>90</threshold>
+                    <final_value>56</final_value>
+                </values>
+                <equipment_number>2</equipment_number>
+                <threshold_satisfied>true</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="30">
+            <name>Glass</name>
+            <grade>A</grade>
+            <place_of_origin>Romania</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="1097">
+            <name>Machine Destruction</name>
+            <status>Delayed</status>
+            <overall_time>20 hours</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>80</threshold>
+                    <final_value>23</final_value>
+                </values>
+                <equipment_number>75</equipment_number>
+                <threshold_satisfied>false</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="50">
+            <name>Duty Vehicles</name>
+            <grade>A</grade>
+            <place_of_origin>China</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="1139">
+            <name>Machine Fix</name>
+            <status>In Progress</status>
+            <overall_time>100 hours</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>23</threshold>
+                    <final_value>23</final_value>
+                </values>
+                <equipment_number>60</equipment_number>
+                <threshold_satisfied>true</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="10">
+            <name>Needle</name>
+            <grade>A</grade>
+            <place_of_origin>Romania</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="1157">
+            <name>Machine Control</name>
+            <status>Ongoing</status>
+            <overall_time>3 hours</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>10</threshold>
+                    <final_value>130</final_value>
+                </values>
+                <equipment_number>25</equipment_number>
+                <threshold_satisfied>false</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="1">
+            <name>Lever</name>
+            <grade>A</grade>
+            <place_of_origin>Bulgaria</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="1175">
+            <name>Machine Rebuilding</name>
+            <status>Blocked</status>
+            <overall_time>3 weeks</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>120</threshold>
+                    <final_value>99</final_value>
+                </values>
+                <equipment_number>4</equipment_number>
+                <threshold_satisfied>false</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="9">
+            <name>Excavator</name>
+            <grade>A</grade>
+            <place_of_origin>Vietnam</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="1223">
+            <name>Machine Inspection</name>
+            <status>In Progress</status>
+            <overall_time>10 days</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>60</threshold>
+                    <final_value>60</final_value>
+                </values>
+                <equipment_number>120</equipment_number>
+                <threshold_satisfied>true</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="10">
+            <name>Lever</name>
+            <grade>A</grade>
+            <place_of_origin>Germany</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="1229">
+            <name>Machine Reboot</name>
+            <status>Stopped</status>
+            <overall_time>80 hours</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>76</threshold>
+                    <final_value>98</final_value>
+                </values>
+                <equipment_number>8</equipment_number>
+                <threshold_satisfied>false</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="10">
+            <name>Roller</name>
+            <grade>A</grade>
+            <place_of_origin>Croatia</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="1259">
+            <name>Machine Revision</name>
+            <status>Stopped</status>
+            <overall_time>20 hours</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>70</threshold>
+                    <final_value>33</final_value>
+                </values>
+                <equipment_number>15</equipment_number>
+                <threshold_satisfied>true</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="32">
+            <name>Lever</name>
+            <grade>A</grade>
+            <place_of_origin>Vietnam</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="1307">
+            <name>Machine Destruction</name>
+            <status>Finished</status>
+            <overall_time>60 hours</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>99</threshold>
+                    <final_value>99</final_value>
+                </values>
+                <equipment_number>60</equipment_number>
+                <threshold_satisfied>false</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="30">
+            <name>Inclined Plane</name>
+            <grade>A</grade>
+            <place_of_origin>Greece</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="1421">
+            <name>Machine Destruction</name>
+            <status>Warning</status>
+            <overall_time>3 months</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>60</threshold>
+                    <final_value>30</final_value>
+                </values>
+                <equipment_number>100</equipment_number>
+                <threshold_satisfied>false</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="61">
+            <name>Excavator</name>
+            <grade>A</grade>
+            <place_of_origin>Macedonia</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="1457">
+            <name>Machine Revision</name>
+            <status>Ongoing</status>
+            <overall_time>1 month</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>30</threshold>
+                    <final_value>99</final_value>
+                </values>
+                <equipment_number>75</equipment_number>
+                <threshold_satisfied>true</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="61">
+            <name>Big Screws</name>
+            <grade>A</grade>
+            <place_of_origin>Austria</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="1565">
+            <name>Machine Revision</name>
+            <status>Stopped</status>
+            <overall_time>30 hours</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>70</threshold>
+                    <final_value>23</final_value>
+                </values>
+                <equipment_number>85</equipment_number>
+                <threshold_satisfied>false</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="20">
+            <name>Needle</name>
+            <grade>A</grade>
+            <place_of_origin>Romania</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="1577">
+            <name>Machine Fix</name>
+            <status>Ongoing</status>
+            <overall_time>30 hours</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>23</threshold>
+                    <final_value>87</final_value>
+                </values>
+                <equipment_number>25</equipment_number>
+                <threshold_satisfied>false</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="41">
+            <name>Glass</name>
+            <grade>A</grade>
+            <place_of_origin>Austria</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="1613">
+            <name>Machine Destruction</name>
+            <status>Finished</status>
+            <overall_time>5 months</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>90</threshold>
+                    <final_value>34</final_value>
+                </values>
+                <equipment_number>85</equipment_number>
+                <threshold_satisfied>true</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="60">
+            <name>Lever</name>
+            <grade>A</grade>
+            <place_of_origin>Russia</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="1619">
+            <name>Machine Inspection</name>
+            <status>Delayed</status>
+            <overall_time>3 months</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>100</threshold>
+                    <final_value>87</final_value>
+                </values>
+                <equipment_number>40</equipment_number>
+                <threshold_satisfied>true</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="4">
+            <name>Lever</name>
+            <grade>A</grade>
+            <place_of_origin>Italy</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="1919">
+            <name>Machine Rebuilding</name>
+            <status>Delayed</status>
+            <overall_time>1 month</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>10</threshold>
+                    <final_value>100</final_value>
+                </values>
+                <equipment_number>85</equipment_number>
+                <threshold_satisfied>true</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="80">
+            <name>Lever</name>
+            <grade>A</grade>
+            <place_of_origin>Macedonia</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="1931">
+            <name>Machine Reboot</name>
+            <status>Error</status>
+            <overall_time>5 days</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>34</threshold>
+                    <final_value>100</final_value>
+                </values>
+                <equipment_number>10</equipment_number>
+                <threshold_satisfied>true</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="11">
+            <name>Duty Vehicles</name>
+            <grade>A</grade>
+            <place_of_origin>Holland</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="1979">
+            <name>Machine Fix</name>
+            <status>Delayed</status>
+            <overall_time>1 month</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>40</threshold>
+                    <final_value>90</final_value>
+                </values>
+                <equipment_number>65</equipment_number>
+                <threshold_satisfied>true</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="43">
+            <name>Glass</name>
+            <grade>A</grade>
+            <place_of_origin>Austria</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="2033">
+            <name>Machine Destruction</name>
+            <status>Stopped</status>
+            <overall_time>100 hours</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>20</threshold>
+                    <final_value>40</final_value>
+                </values>
+                <equipment_number>6</equipment_number>
+                <threshold_satisfied>true</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="34">
+            <name>Needle</name>
+            <grade>A</grade>
+            <place_of_origin>Austria</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="2051">
+            <name>Machine Revision</name>
+            <status>Started</status>
+            <overall_time>15 days</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>70</threshold>
+                    <final_value>34</final_value>
+                </values>
+                <equipment_number>7</equipment_number>
+                <threshold_satisfied>false</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="5">
+            <name>Inclined Plane</name>
+            <grade>A</grade>
+            <place_of_origin>Russia</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="2075">
+            <name>Machine Reboot</name>
+            <status>Warning</status>
+            <overall_time>2 weeks</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>50</threshold>
+                    <final_value>56</final_value>
+                </values>
+                <equipment_number>1</equipment_number>
+                <threshold_satisfied>false</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="4">
+            <name>Needle</name>
+            <grade>A</grade>
+            <place_of_origin>Russia</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="2081">
+            <name>Machine Revision</name>
+            <status>Finished</status>
+            <overall_time>50 hours</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>90</threshold>
+                    <final_value>34</final_value>
+                </values>
+                <equipment_number>2</equipment_number>
+                <threshold_satisfied>true</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="11">
+            <name>Screw Driver</name>
+            <grade>A</grade>
+            <place_of_origin>Germany</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="2087">
+            <name>Machine Destruction</name>
+            <status>Ongoing</status>
+            <overall_time>70 hours</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>20</threshold>
+                    <final_value>34</final_value>
+                </values>
+                <equipment_number>75</equipment_number>
+                <threshold_satisfied>false</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="44">
+            <name>Material for Line</name>
+            <grade>A</grade>
+            <place_of_origin>Swiss</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="2105">
+            <name>Machine Destruction</name>
+            <status>Warning</status>
+            <overall_time>80 hours</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>90</threshold>
+                    <final_value>76</final_value>
+                </values>
+                <equipment_number>160</equipment_number>
+                <threshold_satisfied>false</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="21">
+            <name>Excavator</name>
+            <grade>A</grade>
+            <place_of_origin>Serbia</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="2153">
+            <name>Machine Revision</name>
+            <status>Finished</status>
+            <overall_time>20 hours</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>87</threshold>
+                    <final_value>130</final_value>
+                </values>
+                <equipment_number>140</equipment_number>
+                <threshold_satisfied>false</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="1">
+            <name>Roller</name>
+            <grade>A</grade>
+            <place_of_origin>Greece</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="2177">
+            <name>Machine Fail</name>
+            <status>In Progress</status>
+            <overall_time>90 hours</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>99</threshold>
+                    <final_value>98</final_value>
+                </values>
+                <equipment_number>130</equipment_number>
+                <threshold_satisfied>false</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="40">
+            <name>Needle</name>
+            <grade>A</grade>
+            <place_of_origin>Germany</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="2231">
+            <name>Machine Destruction</name>
+            <status>Error</status>
+            <overall_time>30 hours</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>34</threshold>
+                    <final_value>10</final_value>
+                </values>
+                <equipment_number>8</equipment_number>
+                <threshold_satisfied>true</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="7">
+            <name>Big Screws</name>
+            <grade>A</grade>
+            <place_of_origin>Germany</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="2357">
+            <name>Machine Fix</name>
+            <status>Finished</status>
+            <overall_time>2 weeks</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>40</threshold>
+                    <final_value>76</final_value>
+                </values>
+                <equipment_number>100</equipment_number>
+                <threshold_satisfied>false</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="91">
+            <name>Screw Driver</name>
+            <grade>A</grade>
+            <place_of_origin>Macedonia</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="2369">
+            <name>Machine Reboot</name>
+            <status>Warning</status>
+            <overall_time>10 hours</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>30</threshold>
+                    <final_value>50</final_value>
+                </values>
+                <equipment_number>30</equipment_number>
+                <threshold_satisfied>false</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="40">
+            <name>Screw Driver</name>
+            <grade>A</grade>
+            <place_of_origin>Germany</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="2465">
+            <name>Machine Inspection</name>
+            <status>Stopped</status>
+            <overall_time>30 hours</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>110</threshold>
+                    <final_value>97</final_value>
+                </values>
+                <equipment_number>10</equipment_number>
+                <threshold_satisfied>false</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="32">
+            <name>Glass</name>
+            <grade>A</grade>
+            <place_of_origin>Austria</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="2519">
+            <name>Machine Fix</name>
+            <status>Delayed</status>
+            <overall_time>7 days</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>33</threshold>
+                    <final_value>130</final_value>
+                </values>
+                <equipment_number>95</equipment_number>
+                <threshold_satisfied>true</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="51">
+            <name>Roller</name>
+            <grade>A</grade>
+            <place_of_origin>Russia</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="2537">
+            <name>Machine Revision</name>
+            <status>Blocked</status>
+            <overall_time>3 weeks</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>40</threshold>
+                    <final_value>100</final_value>
+                </values>
+                <equipment_number>160</equipment_number>
+                <threshold_satisfied>true</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="11">
+            <name>Lever</name>
+            <grade>A</grade>
+            <place_of_origin>China</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="2603">
+            <name>Machine Revision</name>
+            <status>In Progress</status>
+            <overall_time>40 hours</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>100</threshold>
+                    <final_value>90</final_value>
+                </values>
+                <equipment_number>8</equipment_number>
+                <threshold_satisfied>true</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="10">
+            <name>Glass</name>
+            <grade>A</grade>
+            <place_of_origin>Russia</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="2609">
+            <name>Machine Fail</name>
+            <status>In Progress</status>
+            <overall_time>3 months</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>40</threshold>
+                    <final_value>30</final_value>
+                </values>
+                <equipment_number>100</equipment_number>
+                <threshold_satisfied>true</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="44">
+            <name>Inclined Plane</name>
+            <grade>A</grade>
+            <place_of_origin>Holland</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="2681">
+            <name>Machine Fail</name>
+            <status>Finished</status>
+            <overall_time>3 months</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>76</threshold>
+                    <final_value>100</final_value>
+                </values>
+                <equipment_number>100</equipment_number>
+                <threshold_satisfied>false</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="5">
+            <name>Duty Vehicles</name>
+            <grade>A</grade>
+            <place_of_origin>China</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="2711">
+            <name>Machine Fix</name>
+            <status>Warning</status>
+            <overall_time>3 days</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>60</threshold>
+                    <final_value>97</final_value>
+                </values>
+                <equipment_number>40</equipment_number>
+                <threshold_satisfied>false</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="6">
+            <name>Glass</name>
+            <grade>A</grade>
+            <place_of_origin>Vietnam</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="2717">
+            <name>Machine Rebuilding</name>
+            <status>Blocked</status>
+            <overall_time>3 hours</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>120</threshold>
+                    <final_value>80</final_value>
+                </values>
+                <equipment_number>35</equipment_number>
+                <threshold_satisfied>false</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="35">
+            <name>Screw Driver</name>
+            <grade>A</grade>
+            <place_of_origin>Vietnam</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="2813">
+            <name>Machine Revision</name>
+            <status>In Progress</status>
+            <overall_time>100 hours</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>56</threshold>
+                    <final_value>80</final_value>
+                </values>
+                <equipment_number>100</equipment_number>
+                <threshold_satisfied>true</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="43">
+            <name>Roller</name>
+            <grade>A</grade>
+            <place_of_origin>Austria</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="2855">
+            <name>Machine Fail</name>
+            <status>Error</status>
+            <overall_time>90 hours</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>50</threshold>
+                    <final_value>90</final_value>
+                </values>
+                <equipment_number>130</equipment_number>
+                <threshold_satisfied>false</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="50">
+            <name>Needle</name>
+            <grade>A</grade>
+            <place_of_origin>China</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="2891">
+            <name>Machine Destruction</name>
+            <status>In Progress</status>
+            <overall_time>3 months</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>90</threshold>
+                    <final_value>50</final_value>
+                </values>
+                <equipment_number>25</equipment_number>
+                <threshold_satisfied>true</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="32">
+            <name>Big Screws</name>
+            <grade>A</grade>
+            <place_of_origin>Romania</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="2903">
+            <name>Machine Destruction</name>
+            <status>Stopped</status>
+            <overall_time>60 hours</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>40</threshold>
+                    <final_value>110</final_value>
+                </values>
+                <equipment_number>9</equipment_number>
+                <threshold_satisfied>false</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="71">
+            <name>Screw Driver</name>
+            <grade>A</grade>
+            <place_of_origin>Bulgaria</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="3011">
+            <name>Machine Fail</name>
+            <status>Started</status>
+            <overall_time>60 hours</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>130</threshold>
+                    <final_value>90</final_value>
+                </values>
+                <equipment_number>130</equipment_number>
+                <threshold_satisfied>true</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="22">
+            <name>Glass</name>
+            <grade>A</grade>
+            <place_of_origin>Vietnam</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="3023">
+            <name>Machine Reboot</name>
+            <status>Finished</status>
+            <overall_time>40 hours</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>70</threshold>
+                    <final_value>60</final_value>
+                </values>
+                <equipment_number>75</equipment_number>
+                <threshold_satisfied>false</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="2">
+            <name>Excavator</name>
+            <grade>A</grade>
+            <place_of_origin>Vietnam</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="3065">
+            <name>Machine Revision</name>
+            <status>In Progress</status>
+            <overall_time>5 months</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>20</threshold>
+                    <final_value>130</final_value>
+                </values>
+                <equipment_number>50</equipment_number>
+                <threshold_satisfied>true</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="40">
+            <name>Material for Line</name>
+            <grade>A</grade>
+            <place_of_origin>Germany</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="3203">
+            <name>Machine Control</name>
+            <status>Delayed</status>
+            <overall_time>100 hours</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>33</threshold>
+                    <final_value>20</final_value>
+                </values>
+                <equipment_number>160</equipment_number>
+                <threshold_satisfied>true</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="45">
+            <name>Big Screws</name>
+            <grade>A</grade>
+            <place_of_origin>Austria</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="3305">
+            <name>Machine Revision</name>
+            <status>Warning</status>
+            <overall_time>5 days</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>130</threshold>
+                    <final_value>120</final_value>
+                </values>
+                <equipment_number>7</equipment_number>
+                <threshold_satisfied>true</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="91">
+            <name>Screw Driver</name>
+            <grade>A</grade>
+            <place_of_origin>Bulgaria</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="3329">
+            <name>Machine Fix</name>
+            <status>In Progress</status>
+            <overall_time>15 days</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>60</threshold>
+                    <final_value>50</final_value>
+                </values>
+                <equipment_number>55</equipment_number>
+                <threshold_satisfied>true</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="38">
+            <name>Glass</name>
+            <grade>A</grade>
+            <place_of_origin>Greece</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="3389">
+            <name>Machine Fix</name>
+            <status>Blocked</status>
+            <overall_time>80 hours</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>80</threshold>
+                    <final_value>100</final_value>
+                </values>
+                <equipment_number>11</equipment_number>
+                <threshold_satisfied>true</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="44">
+            <name>Big Screws</name>
+            <grade>A</grade>
+            <place_of_origin>Russia</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="3425">
+            <name>Machine Fail</name>
+            <status>Warning</status>
+            <overall_time>15 days</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>56</threshold>
+                    <final_value>100</final_value>
+                </values>
+                <equipment_number>140</equipment_number>
+                <threshold_satisfied>true</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="44">
+            <name>Screw Driver</name>
+            <grade>A</grade>
+            <place_of_origin>Holland</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="3515">
+            <name>Machine Reboot</name>
+            <status>Error</status>
+            <overall_time>2 weeks</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>110</threshold>
+                    <final_value>34</final_value>
+                </values>
+                <equipment_number>85</equipment_number>
+                <threshold_satisfied>true</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="44">
+            <name>Excavator</name>
+            <grade>A</grade>
+            <place_of_origin>Germany</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="3557">
+            <name>Machine Revision</name>
+            <status>In Progress</status>
+            <overall_time>40 hours</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>76</threshold>
+                    <final_value>110</final_value>
+                </values>
+                <equipment_number>140</equipment_number>
+                <threshold_satisfied>false</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="31">
+            <name>Roller</name>
+            <grade>A</grade>
+            <place_of_origin>Macedonia</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="3593">
+            <name>Machine Fix</name>
+            <status>Stopped</status>
+            <overall_time>15 days</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>90</threshold>
+                    <final_value>90</final_value>
+                </values>
+                <equipment_number>3</equipment_number>
+                <threshold_satisfied>false</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="43">
+            <name>Needle</name>
+            <grade>A</grade>
+            <place_of_origin>Russia</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="3629">
+            <name>Machine Reboot</name>
+            <status>Ongoing</status>
+            <overall_time>7 days</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>10</threshold>
+                    <final_value>30</final_value>
+                </values>
+                <equipment_number>85</equipment_number>
+                <threshold_satisfied>false</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="44">
+            <name>Duty Vehicles</name>
+            <grade>A</grade>
+            <place_of_origin>Russia</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="3779">
+            <name>Machine Control</name>
+            <status>Started</status>
+            <overall_time>30 hours</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>50</threshold>
+                    <final_value>60</final_value>
+                </values>
+                <equipment_number>5</equipment_number>
+                <threshold_satisfied>true</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="40">
+            <name>Inclined Plane</name>
+            <grade>A</grade>
+            <place_of_origin>Germany</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="3881">
+            <name>Machine Control</name>
+            <status>In Progress</status>
+            <overall_time>30 hours</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>120</threshold>
+                    <final_value>80</final_value>
+                </values>
+                <equipment_number>2</equipment_number>
+                <threshold_satisfied>true</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="21">
+            <name>Screw Driver</name>
+            <grade>A</grade>
+            <place_of_origin>Greece</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="4001">
+            <name>Machine Control</name>
+            <status>Started</status>
+            <overall_time>1 hour</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>56</threshold>
+                    <final_value>99</final_value>
+                </values>
+                <equipment_number>75</equipment_number>
+                <threshold_satisfied>true</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="40">
+            <name>Glass</name>
+            <grade>A</grade>
+            <place_of_origin>Romania</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="4007">
+            <name>Machine Reboot</name>
+            <status>Blocked</status>
+            <overall_time>5 days</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>60</threshold>
+                    <final_value>99</final_value>
+                </values>
+                <equipment_number>10</equipment_number>
+                <threshold_satisfied>true</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="5">
+            <name>Excavator</name>
+            <grade>A</grade>
+            <place_of_origin>Italy</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="4031">
+            <name>Machine Revision</name>
+            <status>Error</status>
+            <overall_time>3 months</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>23</threshold>
+                    <final_value>40</final_value>
+                </values>
+                <equipment_number>11</equipment_number>
+                <threshold_satisfied>false</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="11">
+            <name>Roller</name>
+            <grade>A</grade>
+            <place_of_origin>Germany</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="4055">
+            <name>Machine Inspection</name>
+            <status>Started</status>
+            <overall_time>4 weeks</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>40</threshold>
+                    <final_value>110</final_value>
+                </values>
+                <equipment_number>90</equipment_number>
+                <threshold_satisfied>true</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="43">
+            <name>Needle</name>
+            <grade>A</grade>
+            <place_of_origin>Russia</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="4139">
+            <name>Machine Rebuilding</name>
+            <status>Finished</status>
+            <overall_time>80 hours</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>60</threshold>
+                    <final_value>76</final_value>
+                </values>
+                <equipment_number>10</equipment_number>
+                <threshold_satisfied>true</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="60">
+            <name>Excavator</name>
+            <grade>A</grade>
+            <place_of_origin>Austria</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="4403">
+            <name>Machine Inspection</name>
+            <status>Stopped</status>
+            <overall_time>5 days</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>110</threshold>
+                    <final_value>10</final_value>
+                </values>
+                <equipment_number>150</equipment_number>
+                <threshold_satisfied>false</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="61">
+            <name>Roller</name>
+            <grade>A</grade>
+            <place_of_origin>Italy</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="4457">
+            <name>Machine Control</name>
+            <status>Finished</status>
+            <overall_time>3 weeks</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>56</threshold>
+                    <final_value>56</final_value>
+                </values>
+                <equipment_number>65</equipment_number>
+                <threshold_satisfied>false</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="25">
+            <name>Inclined Plane</name>
+            <grade>A</grade>
+            <place_of_origin>Macedonia</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="4469">
+            <name>Machine Inspection</name>
+            <status>Delayed</status>
+            <overall_time>3 weeks</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>23</threshold>
+                    <final_value>120</final_value>
+                </values>
+                <equipment_number>150</equipment_number>
+                <threshold_satisfied>false</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="91">
+            <name>Screw Driver</name>
+            <grade>A</grade>
+            <place_of_origin>Bulgaria</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="4481">
+            <name>Machine Revision</name>
+            <status>Finished</status>
+            <overall_time>5 days</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>110</threshold>
+                    <final_value>34</final_value>
+                </values>
+                <equipment_number>25</equipment_number>
+                <threshold_satisfied>false</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="36">
+            <name>Excavator</name>
+            <grade>A</grade>
+            <place_of_origin>Holland</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="4535">
+            <name>Machine Control</name>
+            <status>Ongoing</status>
+            <overall_time>5 days</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>23</threshold>
+                    <final_value>98</final_value>
+                </values>
+                <equipment_number>120</equipment_number>
+                <threshold_satisfied>true</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="3">
+            <name>Needle</name>
+            <grade>A</grade>
+            <place_of_origin>Vietnam</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="4631">
+            <name>Machine Fix</name>
+            <status>Finished</status>
+            <overall_time>100 hours</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>120</threshold>
+                    <final_value>70</final_value>
+                </values>
+                <equipment_number>15</equipment_number>
+                <threshold_satisfied>false</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="29">
+            <name>Material for Line</name>
+            <grade>A</grade>
+            <place_of_origin>China</place_of_origin>
+        </equipment_efficiency>
+    </result>
+    <result>
+        <description>Overall equipment efficiencies, Process, Equipment Efficiency</description>
+        <proccess proccess_id="4763">
+            <name>Machine Reboot</name>
+            <status>In Progress</status>
+            <overall_time>4 weeks</overall_time>
+            <overall_equipment_efficiency>
+                <values>
+                    <threshold>60</threshold>
+                    <final_value>34</final_value>
+                </values>
+                <equipment_number>15</equipment_number>
+                <threshold_satisfied>false</threshold_satisfied>
+            </overall_equipment_efficiency>
+        </proccess>
+        <equipment_efficiency id="11">
+            <name>Duty Vehicles</name>
+            <grade>A</grade>
+            <place_of_origin>China</place_of_origin>
+        </equipment_efficiency>
+    </result>
+<process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="1000"><name>Test Process</name><status>Finished</status><overall_time>20 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="533"><name>Test Process</name><status>Finished</status><overall_time>203 minutes</overall_time><overall_equipment_efficiency><values><threshold>30</threshold><final_value>87</final_value></values><equipment_number>1020</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process><process proccess_id="521"><name>Test Process1</name><status>Finished</status><overall_time>3 minutes</overall_time><overall_equipment_efficiency><values><threshold>24</threshold><final_value>90</final_value></values><equipment_number>120</equipment_number><threshold_satisfied>true</threshold_satisfied></overall_equipment_efficiency></process></root>

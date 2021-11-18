@@ -1,0 +1,13 @@
+curl --location --request PUT 'http://abgabe.cs.univie.ac.at:9766/oee/update-repair-company/13' \
+--header 'Content-Type: application/json' \
+--data-raw '{
+    "companyId" : 13,
+    "name" : "POST AUSTRIA",
+    "fieldOfWork" : "PostOffice",
+    "foundationDate" : "2020-12-05",
+    "streetName" : "Maria-Theresia Gasse",
+    "number" : 87,
+    "city" : "Vienna/Wien",
+    "postalCode" : "1082",
+    "country" : "Austria"
+}'
